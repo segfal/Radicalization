@@ -1,5 +1,4 @@
 
-import xlsxwriter
 import json
 import time
 import datetime
@@ -15,13 +14,15 @@ from datetime import datetime
 import json
 
 table = [] ## all json data will be here
-def create_row(date,postid,title,text,upvote): ##Row for every post
+def create_row(date,postid,title,text,upvote,subreddit): ##Row for every post
     return {
         "Date" : date,
         "PostID" : postid,
+        "Subreddit" : subreddit,
         "Title" : title,
         "Text" : text,
-        "UpVote" : upvote
+        "UpVote" : upvote,
+        "Score" : ""
     }
 
 # Load environment variables
@@ -31,8 +32,6 @@ reddit_secret = os.getenv("REDDIT_SECRET")
 
 
 
-reddit_key = os.getenv("REDDIT_KEY")
-reddit_secret = os.getenv("REDDIT_SECRET")
 
 
 reddit = praw.Reddit(
@@ -41,14 +40,14 @@ reddit = praw.Reddit(
     , user_agent= "radical"
     , username= "segfal32"
     )
-
+'''
 subreddit = reddit.subreddit("compsci")
 
 x = ""
 for submission in reddit.subreddit("compsci").hot(limit=25):
     #print(submission.title)
     #submission.public_description
-    
+    sub = "compsci"
     #x = submission.selftext
     x = int(submission.created_utc)
     x = datetime.utcfromtimestamp(x).strftime('%Y-%m-%d %H:%M:%S')
@@ -62,12 +61,13 @@ for submission in reddit.subreddit("compsci").hot(limit=25):
 
 
 
-        table.append(create_row(time,postid,title,text,upvote))
+        table.append(create_row(time,postid,title,text,upvote,sub))
         
 
 
 
 #print(subreddit.public_description)
+'''
 
 '''
 for submission in reddit.subreddit("compsci").new(limit=10):
@@ -77,6 +77,27 @@ for submission in reddit.subreddit("compsci").new(limit=10):
 
 
 ##turn table to json
-arr = json.dumps(table)
+#arr = json.dumps(table)
 
 
+def get_reddit_thread(subreddit = "compsci",range = 3):
+    """
+    Get the latest posts from a subreddit
+    :param subreddit: The subreddit to get the posts from
+    :param range: The range of posts to get
+    :return: A list of posts
+    """
+    sub = subreddit
+    subreddit = reddit.subreddit(subreddit)
+    posts = []
+    for submission in subreddit.new(limit=range):
+        title = submission.title
+        text = submission.selftext
+        upvote = submission.score
+        time = datetime.utcfromtimestamp(submission.created_utc).strftime('%Y-%m-%d %H:%M:%S')
+        postid = submission.id
+        posts.append(create_row(time,postid,title,text,upvote,sub))
+    return posts
+
+
+    

@@ -1,0 +1,4 @@
+.env
+.tutorial.py
+some_test.py
+./__pycache__
