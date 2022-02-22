@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+tweepy
+praw
+XlsxWriter
+requests
+python-dotenv
+

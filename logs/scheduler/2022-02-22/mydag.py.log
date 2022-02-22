@@ -1,0 +1,231 @@
+[2022-02-22 00:00:06,397] {processor.py:163} INFO - Started process (PID=6459) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:06,402] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:00:06,405] {logging_mixin.py:109} INFO - [2022-02-22 00:00:06,405] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:06,521] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:07,599] {logging_mixin.py:109} INFO - [2022-02-22 00:00:07,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:00:07,670] {logging_mixin.py:109} INFO - [2022-02-22 00:00:07,669] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:00:07,706] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.317 seconds
+[2022-02-22 00:00:38,471] {processor.py:163} INFO - Started process (PID=6549) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:38,475] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:00:38,478] {logging_mixin.py:109} INFO - [2022-02-22 00:00:38,478] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:38,584] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:00:39,548] {logging_mixin.py:109} INFO - [2022-02-22 00:00:39,547] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:00:39,640] {logging_mixin.py:109} INFO - [2022-02-22 00:00:39,639] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:00:39,679] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.215 seconds
+[2022-02-22 00:01:10,508] {processor.py:163} INFO - Started process (PID=6655) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:10,514] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:01:10,517] {logging_mixin.py:109} INFO - [2022-02-22 00:01:10,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:10,634] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:11,718] {logging_mixin.py:109} INFO - [2022-02-22 00:01:11,717] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:01:11,798] {logging_mixin.py:109} INFO - [2022-02-22 00:01:11,798] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:01:11,836] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.337 seconds
+[2022-02-22 00:01:42,116] {processor.py:163} INFO - Started process (PID=6753) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:42,121] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:01:42,125] {logging_mixin.py:109} INFO - [2022-02-22 00:01:42,124] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:42,236] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:01:43,270] {logging_mixin.py:109} INFO - [2022-02-22 00:01:43,269] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:01:43,347] {logging_mixin.py:109} INFO - [2022-02-22 00:01:43,346] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:01:43,383] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.283 seconds
+[2022-02-22 00:02:13,763] {processor.py:163} INFO - Started process (PID=6845) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:13,772] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:02:13,776] {logging_mixin.py:109} INFO - [2022-02-22 00:02:13,775] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:13,918] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:15,150] {logging_mixin.py:109} INFO - [2022-02-22 00:02:15,149] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:02:15,239] {logging_mixin.py:109} INFO - [2022-02-22 00:02:15,238] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:02:15,281] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.529 seconds
+[2022-02-22 00:02:45,372] {processor.py:163} INFO - Started process (PID=6949) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:45,382] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:02:45,388] {logging_mixin.py:109} INFO - [2022-02-22 00:02:45,387] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:45,540] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:02:46,660] {logging_mixin.py:109} INFO - [2022-02-22 00:02:46,659] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:02:46,739] {logging_mixin.py:109} INFO - [2022-02-22 00:02:46,738] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:02:46,786] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.422 seconds
+[2022-02-22 00:03:17,002] {processor.py:163} INFO - Started process (PID=7036) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:17,008] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:03:17,010] {logging_mixin.py:109} INFO - [2022-02-22 00:03:17,010] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:17,118] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:18,072] {logging_mixin.py:109} INFO - [2022-02-22 00:03:18,071] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:03:18,139] {logging_mixin.py:109} INFO - [2022-02-22 00:03:18,138] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:03:18,172] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.178 seconds
+[2022-02-22 00:03:48,277] {processor.py:163} INFO - Started process (PID=7140) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:48,284] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:03:48,288] {logging_mixin.py:109} INFO - [2022-02-22 00:03:48,287] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:48,434] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:03:49,507] {logging_mixin.py:109} INFO - [2022-02-22 00:03:49,506] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:03:49,580] {logging_mixin.py:109} INFO - [2022-02-22 00:03:49,579] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:03:49,624] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.358 seconds
+[2022-02-22 00:04:19,986] {processor.py:163} INFO - Started process (PID=7228) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:19,990] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:04:19,993] {logging_mixin.py:109} INFO - [2022-02-22 00:04:19,993] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:20,089] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:20,947] {logging_mixin.py:109} INFO - [2022-02-22 00:04:20,947] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:04:21,006] {logging_mixin.py:109} INFO - [2022-02-22 00:04:21,006] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:04:21,037] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.059 seconds
+[2022-02-22 00:04:51,952] {processor.py:163} INFO - Started process (PID=7331) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:51,958] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:04:51,962] {logging_mixin.py:109} INFO - [2022-02-22 00:04:51,962] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:52,095] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:04:53,114] {logging_mixin.py:109} INFO - [2022-02-22 00:04:53,113] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:04:53,186] {logging_mixin.py:109} INFO - [2022-02-22 00:04:53,185] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:04:53,223] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.281 seconds
+[2022-02-22 00:05:23,412] {processor.py:163} INFO - Started process (PID=7429) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:23,418] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:05:23,421] {logging_mixin.py:109} INFO - [2022-02-22 00:05:23,421] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:23,534] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:24,614] {logging_mixin.py:109} INFO - [2022-02-22 00:05:24,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:05:24,692] {logging_mixin.py:109} INFO - [2022-02-22 00:05:24,691] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:05:24,743] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.339 seconds
+[2022-02-22 00:05:55,004] {processor.py:163} INFO - Started process (PID=7522) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:55,014] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:05:55,019] {logging_mixin.py:109} INFO - [2022-02-22 00:05:55,018] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:55,147] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:05:56,321] {logging_mixin.py:109} INFO - [2022-02-22 00:05:56,320] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:05:56,400] {logging_mixin.py:109} INFO - [2022-02-22 00:05:56,399] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:05:56,441] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.448 seconds
+[2022-02-22 00:06:27,056] {processor.py:163} INFO - Started process (PID=7626) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:27,063] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:06:27,067] {logging_mixin.py:109} INFO - [2022-02-22 00:06:27,067] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:27,178] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:28,198] {logging_mixin.py:109} INFO - [2022-02-22 00:06:28,197] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:06:28,267] {logging_mixin.py:109} INFO - [2022-02-22 00:06:28,267] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:06:28,305] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.257 seconds
+[2022-02-22 00:06:58,438] {processor.py:163} INFO - Started process (PID=7712) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:58,443] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:06:58,446] {logging_mixin.py:109} INFO - [2022-02-22 00:06:58,445] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:58,536] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:06:59,317] {logging_mixin.py:109} INFO - [2022-02-22 00:06:59,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:06:59,384] {logging_mixin.py:109} INFO - [2022-02-22 00:06:59,383] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:06:59,418] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 0.986 seconds
+[2022-02-22 00:07:29,762] {processor.py:163} INFO - Started process (PID=7816) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:07:29,768] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:07:29,771] {logging_mixin.py:109} INFO - [2022-02-22 00:07:29,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:07:29,892] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:07:31,003] {logging_mixin.py:109} INFO - [2022-02-22 00:07:31,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:07:31,072] {logging_mixin.py:109} INFO - [2022-02-22 00:07:31,071] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:07:31,109] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.355 seconds
+[2022-02-22 00:08:01,372] {processor.py:163} INFO - Started process (PID=7905) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:01,376] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:08:01,379] {logging_mixin.py:109} INFO - [2022-02-22 00:08:01,378] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:01,483] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:01,537] {logging_mixin.py:109} INFO - [2022-02-22 00:08:01,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:08:01,606] {logging_mixin.py:109} INFO - [2022-02-22 00:08:01,606] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:08:01,633] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 0.267 seconds
+[2022-02-22 00:08:31,861] {processor.py:163} INFO - Started process (PID=8010) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:31,866] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:08:31,869] {logging_mixin.py:109} INFO - [2022-02-22 00:08:31,869] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:31,985] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:08:33,074] {logging_mixin.py:109} INFO - [2022-02-22 00:08:33,073] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:08:33,153] {logging_mixin.py:109} INFO - [2022-02-22 00:08:33,152] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:08:33,189] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.336 seconds
+[2022-02-22 00:09:03,476] {processor.py:163} INFO - Started process (PID=8112) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:03,481] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:09:03,485] {logging_mixin.py:109} INFO - [2022-02-22 00:09:03,484] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:03,593] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:04,709] {logging_mixin.py:109} INFO - [2022-02-22 00:09:04,708] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:09:04,787] {logging_mixin.py:109} INFO - [2022-02-22 00:09:04,786] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:09:04,821] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.353 seconds
+[2022-02-22 00:09:35,375] {processor.py:163} INFO - Started process (PID=8209) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:35,380] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:09:35,383] {logging_mixin.py:109} INFO - [2022-02-22 00:09:35,383] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:35,496] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:09:36,589] {logging_mixin.py:109} INFO - [2022-02-22 00:09:36,589] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:09:36,661] {logging_mixin.py:109} INFO - [2022-02-22 00:09:36,660] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:09:36,693] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.326 seconds
+[2022-02-22 00:10:07,175] {processor.py:163} INFO - Started process (PID=8314) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:07,181] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:10:07,184] {logging_mixin.py:109} INFO - [2022-02-22 00:10:07,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:07,296] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:08,401] {logging_mixin.py:109} INFO - [2022-02-22 00:10:08,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:10:08,491] {logging_mixin.py:109} INFO - [2022-02-22 00:10:08,490] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:10:08,529] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.362 seconds
+[2022-02-22 00:10:38,687] {processor.py:163} INFO - Started process (PID=8401) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:38,691] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:10:38,694] {logging_mixin.py:109} INFO - [2022-02-22 00:10:38,694] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:38,811] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:10:39,706] {logging_mixin.py:109} INFO - [2022-02-22 00:10:39,706] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:10:39,771] {logging_mixin.py:109} INFO - [2022-02-22 00:10:39,771] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:10:39,801] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.120 seconds
+[2022-02-22 00:11:09,998] {processor.py:163} INFO - Started process (PID=8511) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:10,002] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:11:10,006] {logging_mixin.py:109} INFO - [2022-02-22 00:11:10,006] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:10,114] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:11,144] {logging_mixin.py:109} INFO - [2022-02-22 00:11:11,143] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:11:11,215] {logging_mixin.py:109} INFO - [2022-02-22 00:11:11,214] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:11:11,250] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.259 seconds
+[2022-02-22 00:11:41,323] {processor.py:163} INFO - Started process (PID=8596) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:41,329] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:11:41,332] {logging_mixin.py:109} INFO - [2022-02-22 00:11:41,332] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:41,423] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:11:42,325] {logging_mixin.py:109} INFO - [2022-02-22 00:11:42,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:11:42,399] {logging_mixin.py:109} INFO - [2022-02-22 00:11:42,398] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:11:42,436] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.120 seconds
+[2022-02-22 00:12:12,857] {processor.py:163} INFO - Started process (PID=8700) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:12,861] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:12:12,865] {logging_mixin.py:109} INFO - [2022-02-22 00:12:12,864] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:12,972] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:14,008] {logging_mixin.py:109} INFO - [2022-02-22 00:12:14,008] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:12:14,078] {logging_mixin.py:109} INFO - [2022-02-22 00:12:14,077] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:12:14,117] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.267 seconds
+[2022-02-22 00:12:44,290] {processor.py:163} INFO - Started process (PID=8804) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:44,296] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:12:44,299] {logging_mixin.py:109} INFO - [2022-02-22 00:12:44,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:44,414] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:12:45,454] {logging_mixin.py:109} INFO - [2022-02-22 00:12:45,453] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:12:45,529] {logging_mixin.py:109} INFO - [2022-02-22 00:12:45,529] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:12:45,566] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.284 seconds
+[2022-02-22 00:13:16,103] {processor.py:163} INFO - Started process (PID=8891) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:16,109] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:13:16,112] {logging_mixin.py:109} INFO - [2022-02-22 00:13:16,112] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:16,228] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:17,262] {logging_mixin.py:109} INFO - [2022-02-22 00:13:17,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:13:17,329] {logging_mixin.py:109} INFO - [2022-02-22 00:13:17,328] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:13:17,361] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.266 seconds
+[2022-02-22 00:13:47,743] {processor.py:163} INFO - Started process (PID=8995) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:47,752] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:13:47,759] {logging_mixin.py:109} INFO - [2022-02-22 00:13:47,759] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:47,885] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:13:48,984] {logging_mixin.py:109} INFO - [2022-02-22 00:13:48,984] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:13:49,058] {logging_mixin.py:109} INFO - [2022-02-22 00:13:49,057] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:13:49,097] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.363 seconds
+[2022-02-22 00:14:19,402] {processor.py:163} INFO - Started process (PID=9082) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:19,407] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:14:19,409] {logging_mixin.py:109} INFO - [2022-02-22 00:14:19,409] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:19,501] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:20,303] {logging_mixin.py:109} INFO - [2022-02-22 00:14:20,303] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:14:20,359] {logging_mixin.py:109} INFO - [2022-02-22 00:14:20,359] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:14:20,387] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 0.993 seconds
+[2022-02-22 00:14:51,004] {processor.py:163} INFO - Started process (PID=9186) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:51,008] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:14:51,011] {logging_mixin.py:109} INFO - [2022-02-22 00:14:51,011] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:51,117] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:14:52,177] {logging_mixin.py:109} INFO - [2022-02-22 00:14:52,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:14:52,246] {logging_mixin.py:109} INFO - [2022-02-22 00:14:52,245] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:14:52,280] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.283 seconds
+[2022-02-22 00:15:22,497] {processor.py:163} INFO - Started process (PID=9285) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:22,505] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:15:22,509] {logging_mixin.py:109} INFO - [2022-02-22 00:15:22,509] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:22,631] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:23,666] {logging_mixin.py:109} INFO - [2022-02-22 00:15:23,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:15:23,738] {logging_mixin.py:109} INFO - [2022-02-22 00:15:23,738] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:15:23,773] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.285 seconds
+[2022-02-22 00:15:54,030] {processor.py:163} INFO - Started process (PID=9377) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:54,036] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:15:54,039] {logging_mixin.py:109} INFO - [2022-02-22 00:15:54,039] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:54,149] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:15:55,203] {logging_mixin.py:109} INFO - [2022-02-22 00:15:55,202] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:15:55,278] {logging_mixin.py:109} INFO - [2022-02-22 00:15:55,277] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:15:55,323] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.303 seconds
+[2022-02-22 00:16:26,230] {processor.py:163} INFO - Started process (PID=9481) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:26,237] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:16:26,241] {logging_mixin.py:109} INFO - [2022-02-22 00:16:26,241] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:26,356] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:27,459] {logging_mixin.py:109} INFO - [2022-02-22 00:16:27,458] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:16:27,549] {logging_mixin.py:109} INFO - [2022-02-22 00:16:27,548] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:16:27,584] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.362 seconds
+[2022-02-22 00:16:58,091] {processor.py:163} INFO - Started process (PID=9570) to work on /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:58,096] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-22 00:16:58,101] {logging_mixin.py:109} INFO - [2022-02-22 00:16:58,101] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:58,207] {processor.py:654} INFO - DAG(s) dict_keys(['Project_Mapping']) retrieved from /opt/airflow/dags/mydag.py
+[2022-02-22 00:16:59,014] {logging_mixin.py:109} INFO - [2022-02-22 00:16:59,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-22 00:16:59,071] {logging_mixin.py:109} INFO - [2022-02-22 00:16:59,070] {dag.py:2935} INFO - Setting next_dagrun for Project_Mapping to 2022-02-20T00:00:00+00:00
+[2022-02-22 00:16:59,098] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.016 seconds
