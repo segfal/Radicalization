@@ -269,3 +269,13 @@ custom_tokens = remove_noise(word_tokenize(custom_tweet))
 def insert_sentiment(review):
     review_processed = remove_noise(word_tokenize(review))
     return classifier.classify(dict([token, True] for token in review_processed))
+
+
+
+
+
+import abc
+
+
+
+    

@@ -12,6 +12,7 @@ import praw
 import dotenv
 from datetime import datetime
 import json
+from dags.pgresload import LoadData
 
 table = [] ## all json data will be here
 def create_row(date,postid,title,text,upvote,subreddit): ##Row for every post
@@ -22,7 +23,6 @@ def create_row(date,postid,title,text,upvote,subreddit): ##Row for every post
         "Title" : title,
         "Text" : text,
         "UpVote" : upvote,
-        "Score" : ""
     }
 
 # Load environment variables
@@ -101,3 +101,17 @@ def get_reddit_thread(subreddit = "compsci",range = 3):
 
 
     
+import pgresload as pg
+import abc
+
+class Reddit_Posts(LoadData):
+    def create_row(self,date,postid,title,text,upvote,subreddit):
+        return {
+            "Date" : date,
+            "PostID" : postid,
+            "Subreddit" : subreddit,
+            "Title" : title,
+            "Text" : text,
+            "UpVote" : upvote,
+            "Sentiment" : "",
+        }

@@ -1,4 +1,7 @@
 .env
 .tutorial.py
 some_test.py
-./__pycache__
+__pycache__
+rando.py
+tutorial.py
+some_test.py

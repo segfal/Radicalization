@@ -1,0 +1,296 @@
+[2022-02-23 00:00:15,781] {processor.py:163} INFO - Started process (PID=67476) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:00:15,847] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:00:15,878] {logging_mixin.py:109} INFO - [2022-02-23 00:00:15,873] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:00:16,338] {logging_mixin.py:109} INFO - [2022-02-23 00:00:16,279] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:00:16,542] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:00:16,721] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.065 seconds
+[2022-02-23 00:01:17,022] {processor.py:163} INFO - Started process (PID=67562) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:01:17,076] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:01:17,111] {logging_mixin.py:109} INFO - [2022-02-23 00:01:17,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:01:17,950] {logging_mixin.py:109} INFO - [2022-02-23 00:01:17,857] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:01:18,265] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:01:18,693] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 1.869 seconds
+[2022-02-23 00:03:29,357] {processor.py:163} INFO - Started process (PID=67708) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:03:29,414] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:03:29,461] {logging_mixin.py:109} INFO - [2022-02-23 00:03:29,442] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:03:30,405] {logging_mixin.py:109} INFO - [2022-02-23 00:03:30,295] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:03:30,859] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:03:31,323] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 2.103 seconds
+[2022-02-23 00:05:22,782] {processor.py:163} INFO - Started process (PID=67849) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:05:23,030] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:05:23,097] {logging_mixin.py:109} INFO - [2022-02-23 00:05:23,095] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:05:24,439] {logging_mixin.py:109} INFO - [2022-02-23 00:05:24,255] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:05:25,160] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:05:25,885] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 3.412 seconds
+[2022-02-23 00:06:41,394] {processor.py:163} INFO - Started process (PID=67930) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:06:41,605] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:06:41,706] {logging_mixin.py:109} INFO - [2022-02-23 00:06:41,674] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:06:43,748] {logging_mixin.py:109} INFO - [2022-02-23 00:06:43,414] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:06:45,544] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:06:47,166] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 6.202 seconds
+[2022-02-23 00:10:34,208] {processor.py:163} INFO - Started process (PID=68106) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:10:34,686] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:10:34,888] {logging_mixin.py:109} INFO - [2022-02-23 00:10:34,855] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:10:41,947] {logging_mixin.py:109} INFO - [2022-02-23 00:10:41,189] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:10:46,813] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:10:49,986] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 16.866 seconds
+[2022-02-23 00:14:02,984] {processor.py:163} INFO - Started process (PID=68274) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:14:03,813] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:14:04,189] {logging_mixin.py:109} INFO - [2022-02-23 00:14:04,187] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:14:35,151] {logging_mixin.py:109} INFO - [2022-02-23 00:14:34,843] {timeout.py:36} ERROR - Process timed out, PID: 68274
+[2022-02-23 00:14:39,390] {logging_mixin.py:109} INFO - [2022-02-23 00:14:36,529] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 4, in <module>
+    from airflow.decorators import task
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/__init__.py", line 20, in <module>
+    from airflow.decorators.python import PythonDecoratorMixin, python_task  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/python.py", line 21, in <module>
+    from airflow.operators.python import PythonOperator
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 253, in <module>
+    class PythonVirtualenvOperator(PythonOperator):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 201, in __new__
+    new_cls.__init__ = cls._apply_defaults(new_cls.__init__)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 110, in _apply_defaults
+    sig_cache = signature(func)
+  File "/usr/local/lib/python3.7/inspect.py", line 3083, in signature
+    return Signature.from_callable(obj, follow_wrapped=follow_wrapped)
+  File "/usr/local/lib/python3.7/inspect.py", line 2833, in from_callable
+    follow_wrapper_chains=follow_wrapped)
+  File "/usr/local/lib/python3.7/inspect.py", line 2284, in _signature_from_callable
+    return _signature_from_function(sigcls, obj)
+  File "/usr/local/lib/python3.7/inspect.py", line 2194, in _signature_from_function
+    return_annotation=annotations.get('return', _empty),
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 496, in _exit_gracefully
+    self.log.debug("Current Stacktrace is: %s", '\n'.join(map(str, inspect.stack())))
+  File "/usr/local/lib/python3.7/inspect.py", line 1513, in stack
+    return getouterframes(sys._getframe(1), context)
+  File "/usr/local/lib/python3.7/inspect.py", line 1490, in getouterframes
+    frameinfo = (frame,) + getframeinfo(frame, context)
+  File "/usr/local/lib/python3.7/inspect.py", line 1464, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "/usr/local/lib/python3.7/inspect.py", line 780, in findsource
+    module = getmodule(object, file)
+  File "/usr/local/lib/python3.7/inspect.py", line 739, in getmodule
+    f = getabsfile(module)
+  File "/usr/local/lib/python3.7/inspect.py", line 708, in getabsfile
+    _filename = getsourcefile(object) or getfile(object)
+  File "/usr/local/lib/python3.7/inspect.py", line 693, in getsourcefile
+    if os.path.exists(filename):
+  File "/usr/local/lib/python3.7/genericpath.py", line 19, in exists
+    os.stat(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/mydag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 68274
+[2022-02-23 00:14:47,832] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:14:53,644] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 52.162 seconds
+[2022-02-23 00:28:25,871] {processor.py:163} INFO - Started process (PID=68751) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:28:29,514] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:28:35,767] {logging_mixin.py:109} INFO - [2022-02-23 00:28:33,618] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:29:24,000] {logging_mixin.py:109} INFO - [2022-02-23 00:29:21,292] {timeout.py:36} ERROR - Process timed out, PID: 68751
+[2022-02-23 00:30:38,900] {logging_mixin.py:109} INFO - [2022-02-23 00:29:31,404] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 4, in <module>
+    from airflow.decorators import task
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/__init__.py", line 20, in <module>
+    from airflow.decorators.python import PythonDecoratorMixin, python_task  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/python.py", line 20, in <module>
+    from airflow.decorators.base import DecoratedOperator, task_decorator_factory
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/base.py", line 27, in <module>
+    from airflow.models.xcom_arg import XComArg
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/mydag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 68751
+[2022-02-23 00:57:47,526] {processor.py:163} INFO - Started process (PID=324) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 00:57:47,596] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 00:57:47,639] {logging_mixin.py:109} INFO - [2022-02-23 00:57:47,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 00:57:49,023] {logging_mixin.py:109} INFO - [2022-02-23 00:57:48,881] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 00:57:50,174] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 00:57:51,006] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 3.560 seconds
+[2022-02-23 01:00:06,878] {processor.py:163} INFO - Started process (PID=454) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 01:00:06,962] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 01:00:07,040] {logging_mixin.py:109} INFO - [2022-02-23 01:00:07,007] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 01:00:08,651] {logging_mixin.py:109} INFO - [2022-02-23 01:00:08,386] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 01:00:09,584] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 01:00:10,477] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 3.840 seconds
+[2022-02-23 01:04:23,915] {processor.py:163} INFO - Started process (PID=666) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 01:04:24,222] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 01:04:24,409] {logging_mixin.py:109} INFO - [2022-02-23 01:04:24,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 01:04:30,729] {logging_mixin.py:109} INFO - [2022-02-23 01:04:29,975] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 9, in <module>
+    import reddit_posts as reddit
+  File "/opt/airflow/dags/reddit_posts.py", line 2, in <module>
+    import train_data as train  # import train_data.py
+  File "/opt/airflow/dags/train_data.py", line 4, in <module>
+    import spacy
+ModuleNotFoundError: No module named 'spacy'
+[2022-02-23 01:04:34,517] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 01:04:38,735] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 15.883 seconds
+[2022-02-23 01:08:04,159] {processor.py:163} INFO - Started process (PID=848) to work on /opt/airflow/dags/mydag.py
+[2022-02-23 01:08:04,806] {processor.py:642} INFO - Processing file /opt/airflow/dags/mydag.py for tasks to queue
+[2022-02-23 01:08:05,448] {logging_mixin.py:109} INFO - [2022-02-23 01:08:05,293] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/mydag.py
+[2022-02-23 01:08:37,424] {logging_mixin.py:109} INFO - [2022-02-23 01:08:37,256] {timeout.py:36} ERROR - Process timed out, PID: 848
+[2022-02-23 01:08:39,930] {logging_mixin.py:109} INFO - [2022-02-23 01:08:38,018] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/mydag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydag.py", line 4, in <module>
+    from airflow.decorators import task
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/__init__.py", line 20, in <module>
+    from airflow.decorators.python import PythonDecoratorMixin, python_task  # noqa
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/python.py", line 20, in <module>
+    from airflow.decorators.base import DecoratedOperator, task_decorator_factory
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 527, in _compile_bytecode
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 496, in _exit_gracefully
+    self.log.debug("Current Stacktrace is: %s", '\n'.join(map(str, inspect.stack())))
+  File "/usr/local/lib/python3.7/inspect.py", line 1513, in stack
+    return getouterframes(sys._getframe(1), context)
+  File "/usr/local/lib/python3.7/inspect.py", line 1490, in getouterframes
+    frameinfo = (frame,) + getframeinfo(frame, context)
+  File "/usr/local/lib/python3.7/inspect.py", line 1464, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "/usr/local/lib/python3.7/inspect.py", line 780, in findsource
+    module = getmodule(object, file)
+  File "/usr/local/lib/python3.7/inspect.py", line 739, in getmodule
+    f = getabsfile(module)
+  File "/usr/local/lib/python3.7/inspect.py", line 708, in getabsfile
+    _filename = getsourcefile(object) or getfile(object)
+  File "/usr/local/lib/python3.7/inspect.py", line 693, in getsourcefile
+    if os.path.exists(filename):
+  File "/usr/local/lib/python3.7/genericpath.py", line 19, in exists
+    os.stat(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/mydag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 848
+[2022-02-23 01:08:54,437] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/mydag.py
+[2022-02-23 01:09:06,214] {processor.py:171} INFO - Processing /opt/airflow/dags/mydag.py took 63.212 seconds

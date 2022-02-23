@@ -3,6 +3,13 @@ import airflow
 from airflow import DAG
 from airflow.decorators import task
 from airflow.operators.dummy import DummyOperator
+#import pull_data as pull
+#import pgresload as pgres
+#import train_data as train
+import reddit_posts as reddit
+from airflow.operators.python import PythonOperator
+from airflow.operators.bash import BashOperator
+
 
 
 
@@ -10,6 +17,11 @@ with DAG(
     dag_id="Project_Mapping",
     start_date=airflow.utils.dates.days_ago(2),
     schedule_interval="@daily") as dag:
+    ##data from reddit
+    reddit_posts = BashOperator(
+        task_id="reddit_posts",
+        bash_command="python3 /home/airflow/dags/reddit_posts.py")
+    
 
     start = DummyOperator(task_id="start")
     fetch_reddit_data = DummyOperator(task_id="Fetch_reddit_data")

@@ -1,0 +1,63 @@
+[2022-02-23 00:00:15,935] {processor.py:163} INFO - Started process (PID=67478) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:00:15,973] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:00:16,007] {logging_mixin.py:109} INFO - [2022-02-23 00:00:16,006] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:00:16,838] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:00:17,177] {logging_mixin.py:109} INFO - [2022-02-23 00:00:17,170] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:00:17,849] {logging_mixin.py:109} INFO - [2022-02-23 00:00:17,848] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:00:18,240] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 2.437 seconds
+[2022-02-23 00:01:22,453] {processor.py:163} INFO - Started process (PID=67566) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:01:22,507] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:01:22,542] {logging_mixin.py:109} INFO - [2022-02-23 00:01:22,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:01:23,732] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:01:24,135] {logging_mixin.py:109} INFO - [2022-02-23 00:01:24,118] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:01:25,077] {logging_mixin.py:109} INFO - [2022-02-23 00:01:25,042] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:01:25,533] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 3.200 seconds
+[2022-02-23 00:03:31,829] {processor.py:163} INFO - Started process (PID=67712) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:03:31,880] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:03:31,912] {logging_mixin.py:109} INFO - [2022-02-23 00:03:31,911] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:03:33,355] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:03:34,032] {logging_mixin.py:109} INFO - [2022-02-23 00:03:34,030] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:03:35,188] {logging_mixin.py:109} INFO - [2022-02-23 00:03:35,173] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:03:35,698] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 4.056 seconds
+[2022-02-23 00:05:52,884] {processor.py:163} INFO - Started process (PID=67879) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:05:52,979] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:05:53,077] {logging_mixin.py:109} INFO - [2022-02-23 00:05:53,076] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:05:55,647] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:05:57,035] {logging_mixin.py:109} INFO - [2022-02-23 00:05:57,012] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:05:58,861] {logging_mixin.py:109} INFO - [2022-02-23 00:05:58,860] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:05:59,979] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 7.411 seconds
+[2022-02-23 00:06:48,010] {processor.py:163} INFO - Started process (PID=67934) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:06:48,076] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:06:48,099] {logging_mixin.py:109} INFO - [2022-02-23 00:06:48,097] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:06:50,257] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:06:51,771] {logging_mixin.py:109} INFO - [2022-02-23 00:06:51,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:06:54,236] {logging_mixin.py:109} INFO - [2022-02-23 00:06:54,191] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:06:55,260] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 7.369 seconds
+[2022-02-23 00:10:53,300] {processor.py:163} INFO - Started process (PID=68124) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:10:53,581] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:10:53,837] {logging_mixin.py:109} INFO - [2022-02-23 00:10:53,779] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:10:59,983] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:11:05,241] {logging_mixin.py:109} INFO - [2022-02-23 00:11:05,118] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:11:12,260] {logging_mixin.py:109} INFO - [2022-02-23 00:11:12,190] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:11:14,573] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 22.043 seconds
+[2022-02-23 00:57:52,190] {processor.py:163} INFO - Started process (PID=328) to work on /opt/airflow/dags/rando.py
+[2022-02-23 00:57:52,300] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 00:57:52,382] {logging_mixin.py:109} INFO - [2022-02-23 00:57:52,381] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 00:57:53,246] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 00:57:53,933] {logging_mixin.py:109} INFO - [2022-02-23 00:57:53,932] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 00:57:55,188] {logging_mixin.py:109} INFO - [2022-02-23 00:57:55,147] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 00:57:55,729] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 3.892 seconds
+[2022-02-23 01:00:11,810] {processor.py:163} INFO - Started process (PID=458) to work on /opt/airflow/dags/rando.py
+[2022-02-23 01:00:11,872] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 01:00:11,908] {logging_mixin.py:109} INFO - [2022-02-23 01:00:11,907] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 01:00:14,369] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 01:00:15,122] {logging_mixin.py:109} INFO - [2022-02-23 01:00:15,086] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 01:00:16,672] {logging_mixin.py:109} INFO - [2022-02-23 01:00:16,670] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 01:00:17,535] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 5.910 seconds
+[2022-02-23 01:04:56,454] {processor.py:163} INFO - Started process (PID=692) to work on /opt/airflow/dags/rando.py
+[2022-02-23 01:04:56,628] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-23 01:04:56,830] {logging_mixin.py:109} INFO - [2022-02-23 01:04:56,828] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-23 01:05:04,397] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-23 01:05:09,757] {logging_mixin.py:109} INFO - [2022-02-23 01:05:09,574] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-23 01:05:18,476] {logging_mixin.py:109} INFO - [2022-02-23 01:05:18,087] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-23 01:05:23,309] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 27.734 seconds
