@@ -51,3 +51,43 @@ for i in range(0,30):
 
 
 
+
+
+
+class PushToS3:
+    def __init__(self):
+        self.s3 = boto3.resource(
+            's3',
+            aws_access_key_id=aws_access_key_id,
+            aws_secret_access_key=aws_secret_access_key,
+            region_name='us-east-1'
+        )
+        self.bucket = self.s3.Bucket(aws_name)
+    def push_to_s3(self):
+        ##Find excel files in current directory
+        year = datetime.datetime.now().strftime("%Y")
+        month = datetime.datetime.now().strftime("%m")
+        for i in range(0,30):
+            ## get the file name
+            filename = "" + str(year) + "-" + str(month) + "-" + str(i) + ".xlsx"
+            ## check if file exists
+            if os.path.isfile(filename):
+
+                ## upload file to s3
+                self.s3.meta.client.upload_file(filename, aws_name, filename)
+                print(filename)
+                ## delete the file
+                os.remove(filename)
+                print("Deleted file: " + filename)
+            else:
+                continue
+    def pull_from_s3(self):
+        ##look inside s3 bucket
+        for i in self.bucket.objects.all():
+            ##get the file name
+            filename = i.key
+            ##download the file
+            self.s3.meta.client.download_file(aws_name, filename, filename)
+            print(filename)
+
+    

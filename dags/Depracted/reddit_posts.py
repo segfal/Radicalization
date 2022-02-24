@@ -2,6 +2,15 @@ from pendulum import datetime
 import train_data as train  # import train_data.py
 import pull_data as pull  # import pull_data.py`
 import pandas as pd
+import re,string 
+import abc
+import json
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag 
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk import FreqDist
+
 
 import time
 import datetime
