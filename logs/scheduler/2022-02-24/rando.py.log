@@ -1,0 +1,91 @@
+[2022-02-24 03:29:35,722] {processor.py:163} INFO - Started process (PID=128) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:29:35,727] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:29:35,731] {logging_mixin.py:109} INFO - [2022-02-24 03:29:35,731] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:29:35,862] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:29:35,939] {logging_mixin.py:109} INFO - [2022-02-24 03:29:35,939] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:29:36,033] {logging_mixin.py:109} INFO - [2022-02-24 03:29:36,032] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:29:36,067] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.353 seconds
+[2022-02-24 03:30:06,379] {processor.py:163} INFO - Started process (PID=230) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:30:06,384] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:30:06,387] {logging_mixin.py:109} INFO - [2022-02-24 03:30:06,387] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:30:06,466] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:30:06,511] {logging_mixin.py:109} INFO - [2022-02-24 03:30:06,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:30:06,571] {logging_mixin.py:109} INFO - [2022-02-24 03:30:06,570] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:30:06,599] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.226 seconds
+[2022-02-24 03:30:36,810] {processor.py:163} INFO - Started process (PID=328) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:30:36,815] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:30:36,823] {logging_mixin.py:109} INFO - [2022-02-24 03:30:36,823] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:30:36,910] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:30:36,952] {logging_mixin.py:109} INFO - [2022-02-24 03:30:36,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:30:37,019] {logging_mixin.py:109} INFO - [2022-02-24 03:30:37,018] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:30:37,046] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.245 seconds
+[2022-02-24 03:31:07,607] {processor.py:163} INFO - Started process (PID=418) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:31:07,617] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:31:07,622] {logging_mixin.py:109} INFO - [2022-02-24 03:31:07,622] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:31:07,719] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:31:07,754] {logging_mixin.py:109} INFO - [2022-02-24 03:31:07,754] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:31:07,883] {logging_mixin.py:109} INFO - [2022-02-24 03:31:07,882] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:31:07,968] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.375 seconds
+[2022-02-24 03:31:38,293] {processor.py:163} INFO - Started process (PID=524) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:31:38,298] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:31:38,301] {logging_mixin.py:109} INFO - [2022-02-24 03:31:38,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:31:38,399] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:31:38,434] {logging_mixin.py:109} INFO - [2022-02-24 03:31:38,434] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:31:38,501] {logging_mixin.py:109} INFO - [2022-02-24 03:31:38,501] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:31:38,530] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.244 seconds
+[2022-02-24 03:32:09,260] {processor.py:163} INFO - Started process (PID=614) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:32:09,265] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:32:09,269] {logging_mixin.py:109} INFO - [2022-02-24 03:32:09,269] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:32:09,358] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:32:09,393] {logging_mixin.py:109} INFO - [2022-02-24 03:32:09,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:32:09,456] {logging_mixin.py:109} INFO - [2022-02-24 03:32:09,455] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:32:09,484] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.230 seconds
+[2022-02-24 03:32:40,388] {processor.py:163} INFO - Started process (PID=714) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:32:40,393] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:32:40,397] {logging_mixin.py:109} INFO - [2022-02-24 03:32:40,397] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:32:40,482] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:32:40,515] {logging_mixin.py:109} INFO - [2022-02-24 03:32:40,514] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:32:40,575] {logging_mixin.py:109} INFO - [2022-02-24 03:32:40,574] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:32:40,599] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.219 seconds
+[2022-02-24 03:33:10,866] {processor.py:163} INFO - Started process (PID=805) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:33:10,872] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:33:10,877] {logging_mixin.py:109} INFO - [2022-02-24 03:33:10,877] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:33:10,960] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:33:10,995] {logging_mixin.py:109} INFO - [2022-02-24 03:33:10,994] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:33:11,069] {logging_mixin.py:109} INFO - [2022-02-24 03:33:11,069] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:33:11,096] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.239 seconds
+[2022-02-24 03:33:41,589] {processor.py:163} INFO - Started process (PID=914) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:33:41,607] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:33:41,611] {logging_mixin.py:109} INFO - [2022-02-24 03:33:41,611] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:33:41,762] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:33:41,834] {logging_mixin.py:109} INFO - [2022-02-24 03:33:41,833] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:33:41,925] {logging_mixin.py:109} INFO - [2022-02-24 03:33:41,925] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:33:41,958] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.376 seconds
+[2022-02-24 03:34:12,110] {processor.py:163} INFO - Started process (PID=1000) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:34:12,116] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:34:12,119] {logging_mixin.py:109} INFO - [2022-02-24 03:34:12,119] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:34:12,185] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:34:12,214] {logging_mixin.py:109} INFO - [2022-02-24 03:34:12,213] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:34:12,264] {logging_mixin.py:109} INFO - [2022-02-24 03:34:12,263] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:34:12,289] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.186 seconds
+[2022-02-24 03:34:42,818] {processor.py:163} INFO - Started process (PID=1111) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:34:42,822] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:34:42,826] {logging_mixin.py:109} INFO - [2022-02-24 03:34:42,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:34:42,895] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:34:42,926] {logging_mixin.py:109} INFO - [2022-02-24 03:34:42,926] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:34:42,984] {logging_mixin.py:109} INFO - [2022-02-24 03:34:42,983] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:34:43,008] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.198 seconds
+[2022-02-24 03:35:13,842] {processor.py:163} INFO - Started process (PID=1200) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:35:13,848] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:35:13,852] {logging_mixin.py:109} INFO - [2022-02-24 03:35:13,851] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:35:13,939] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:35:13,979] {logging_mixin.py:109} INFO - [2022-02-24 03:35:13,979] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:35:14,030] {logging_mixin.py:109} INFO - [2022-02-24 03:35:14,030] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:35:14,054] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.220 seconds
+[2022-02-24 03:35:44,125] {processor.py:163} INFO - Started process (PID=1305) to work on /opt/airflow/dags/rando.py
+[2022-02-24 03:35:44,131] {processor.py:642} INFO - Processing file /opt/airflow/dags/rando.py for tasks to queue
+[2022-02-24 03:35:44,135] {logging_mixin.py:109} INFO - [2022-02-24 03:35:44,134] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/rando.py
+[2022-02-24 03:35:44,222] {processor.py:654} INFO - DAG(s) dict_keys(['example_variables']) retrieved from /opt/airflow/dags/rando.py
+[2022-02-24 03:35:44,257] {logging_mixin.py:109} INFO - [2022-02-24 03:35:44,256] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 03:35:44,315] {logging_mixin.py:109} INFO - [2022-02-24 03:35:44,314] {dag.py:2935} INFO - Setting next_dagrun for example_variables to None
+[2022-02-24 03:35:44,341] {processor.py:171} INFO - Processing /opt/airflow/dags/rando.py took 0.225 seconds
