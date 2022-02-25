@@ -1,0 +1,23 @@
+[2022-02-25 01:50:51,281] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.load_to_s3 manual__2022-02-25T01:34:11.266054+00:00 [queued]>
+[2022-02-25 01:50:51,338] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.load_to_s3 manual__2022-02-25T01:34:11.266054+00:00 [queued]>
+[2022-02-25 01:50:51,342] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:50:51,345] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-25 01:50:51,348] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:50:51,410] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): load_to_s3> on 2022-02-25 01:34:11.266054+00:00
+[2022-02-25 01:50:51,420] {standard_task_runner.py:52} INFO - Started process 3302 to run task
+[2022-02-25 01:50:51,429] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'Project_Mapping', 'load_to_s3', 'manual__2022-02-25T01:34:11.266054+00:00', '--job-id', '62', '--raw', '--subdir', 'DAGS_FOLDER/mydag.py', '--cfg-path', '/tmp/tmp1lsewa5p', '--error-file', '/tmp/tmp2hjcmshp']
+[2022-02-25 01:50:51,433] {standard_task_runner.py:77} INFO - Job 62: Subtask load_to_s3
+[2022-02-25 01:50:51,641] {logging_mixin.py:109} INFO - Running <TaskInstance: Project_Mapping.load_to_s3 manual__2022-02-25T01:34:11.266054+00:00 [running]> on host 717d92cd82bb
+[2022-02-25 01:50:51,860] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Project_Mapping
+AIRFLOW_CTX_TASK_ID=load_to_s3
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-25T01:34:11.266054+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-25T01:34:11.266054+00:00
+[2022-02-25 01:51:30,248] {logging_mixin.py:109} INFO - Negative
+[2022-02-25 01:51:32,081] {python.py:175} INFO - Done. Returned value was: None
+[2022-02-25 01:51:32,131] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=Project_Mapping, task_id=load_to_s3, execution_date=20220225T013411, start_date=20220225T015051, end_date=20220225T015132
+[2022-02-25 01:51:32,265] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-02-25 01:51:32,380] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

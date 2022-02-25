@@ -199,8 +199,8 @@ class Reddit(pgres.LoadData , s3boto.PushToS3 , train.CleanData):
 
     
 
-reddit = Reddit()
-reddit.push_to_excel("doomer",10)
+#reddit = Reddit()
+#reddit.push_to_excel("doomer",10)
 
 
     

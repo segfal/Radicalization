@@ -1,0 +1,25 @@
+[2022-02-25 01:50:03,017] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.loading_data manual__2022-02-25T01:34:11.266054+00:00 [queued]>
+[2022-02-25 01:50:03,081] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.loading_data manual__2022-02-25T01:34:11.266054+00:00 [queued]>
+[2022-02-25 01:50:03,084] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:50:03,087] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-25 01:50:03,089] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:50:03,160] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): loading_data> on 2022-02-25 01:34:11.266054+00:00
+[2022-02-25 01:50:03,171] {standard_task_runner.py:52} INFO - Started process 3257 to run task
+[2022-02-25 01:50:03,185] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'Project_Mapping', 'loading_data', 'manual__2022-02-25T01:34:11.266054+00:00', '--job-id', '60', '--raw', '--subdir', 'DAGS_FOLDER/mydag.py', '--cfg-path', '/tmp/tmp6hldqcwn', '--error-file', '/tmp/tmpnts1kofp']
+[2022-02-25 01:50:03,189] {standard_task_runner.py:77} INFO - Job 60: Subtask loading_data
+[2022-02-25 01:50:03,519] {logging_mixin.py:109} INFO - Running <TaskInstance: Project_Mapping.loading_data manual__2022-02-25T01:34:11.266054+00:00 [running]> on host 717d92cd82bb
+[2022-02-25 01:50:03,882] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Project_Mapping
+AIRFLOW_CTX_TASK_ID=loading_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-25T01:34:11.266054+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-25T01:34:11.266054+00:00
+[2022-02-25 01:50:45,780] {logging_mixin.py:109} INFO - Negative
+[2022-02-25 01:50:47,799] {logging_mixin.py:109} INFO - reddit_posts_2022-02-25.xlsx
+[2022-02-25 01:50:47,802] {logging_mixin.py:109} INFO - Deleted file: reddit_posts_2022-02-25.xlsx
+[2022-02-25 01:50:48,180] {python.py:175} INFO - Done. Returned value was: None
+[2022-02-25 01:50:48,289] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=Project_Mapping, task_id=loading_data, execution_date=20220225T013411, start_date=20220225T015003, end_date=20220225T015048
+[2022-02-25 01:50:48,433] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-02-25 01:50:48,554] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

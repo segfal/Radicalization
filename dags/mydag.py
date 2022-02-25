@@ -15,7 +15,7 @@ from airflow.operators.bash import BashOperator
 
 
 
-
+'''
 
 
 with DAG(
@@ -23,12 +23,8 @@ with DAG(
     start_date=airflow.utils.dates.days_ago(2),
     schedule_interval="@hourly") as dag:
     ##data from reddit
-    '''
-    reddit_posts = BashOperator(
-        task_id="reddit_posts",
-        bash_command="python3 /home/airflow/dags/reddit_posts.py")
+  
 
-    '''
     
 
    
@@ -40,14 +36,14 @@ with DAG(
         import reddit_data as reddit
         redditdata = reddit.Reddit()
         redditdata.push_to_excel('doomer',10)
-        return 0
+      
     
     @task
     def loading_data():
         import reddit_data as reddit
         redditdata = reddit.Reddit()
         redditdata.load_data()
-        return 0
+    
     
 
     @task
@@ -55,7 +51,9 @@ with DAG(
         import reddit_data as reddit
         redditdata = reddit.Reddit()
         redditdata.push_to_s3()
-        return 0
+
+
+    
     start = get_reddit_data()
     
     loading = loading_data()
@@ -63,3 +61,53 @@ with DAG(
 
 
     start >> loading >> finish
+
+
+    '''
+
+
+
+dag = DAG(
+    dag_id="Project_Mapping",
+    start_date=airflow.utils.dates.days_ago(2),
+    schedule_interval=None)
+
+
+def _get_reddit_data():
+    import reddit_data as reddit
+    redditdata = reddit.Reddit()
+    redditdata.push_to_excel('doomer',10)
+    
+def _loading_data():
+    import reddit_data as reddit
+    redditdata = reddit.Reddit()
+    redditdata.load_data()
+
+def _load_to_s3():
+    import reddit_data as reddit
+    redditdata = reddit.Reddit()
+    redditdata.push_to_s3()
+
+##First Task
+get_reddit_data = PythonOperator(
+    task_id="get_reddit_data",
+    python_callable=_get_reddit_data,
+    dag=dag)
+
+
+
+loading_data = PythonOperator(
+    task_id="loading_data",
+    python_callable=_loading_data,
+    dag=dag)
+
+
+load_to_s3 = PythonOperator(
+    task_id="load_to_s3",
+    python_callable=_load_to_s3,
+    dag=dag)
+
+
+##First Task
+get_reddit_data >> loading_data >> load_to_s3
+

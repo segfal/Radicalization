@@ -1,0 +1,23 @@
+[2022-02-25 01:23:58,409] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-25T00:00:00+00:00 [queued]>
+[2022-02-25 01:23:58,481] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-25T00:00:00+00:00 [queued]>
+[2022-02-25 01:23:58,484] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:23:58,485] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-25 01:23:58,491] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-25 01:23:58,569] {taskinstance.py:1259} INFO - Executing <Task(_PythonDecoratedOperator): get_reddit_data> on 2022-02-25 00:00:00+00:00
+[2022-02-25 01:23:58,580] {standard_task_runner.py:52} INFO - Started process 1879 to run task
+[2022-02-25 01:23:58,592] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'Project_Mapping', 'get_reddit_data', 'scheduled__2022-02-25T00:00:00+00:00', '--job-id', '54', '--raw', '--subdir', 'DAGS_FOLDER/mydag.py', '--cfg-path', '/tmp/tmpp3z4g9yo', '--error-file', '/tmp/tmp2xzs2byh']
+[2022-02-25 01:23:58,597] {standard_task_runner.py:77} INFO - Job 54: Subtask get_reddit_data
+[2022-02-25 01:23:58,918] {logging_mixin.py:109} INFO - Running <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-25T00:00:00+00:00 [running]> on host 717d92cd82bb
+[2022-02-25 01:23:59,187] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Project_Mapping
+AIRFLOW_CTX_TASK_ID=get_reddit_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-25T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-02-25T00:00:00+00:00
+[2022-02-25 01:24:39,757] {logging_mixin.py:109} INFO - Negative
+[2022-02-25 01:32:08,677] {python.py:175} INFO - Done. Returned value was: 0
+[2022-02-25 01:32:08,778] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=Project_Mapping, task_id=get_reddit_data, execution_date=20220225T000000, start_date=20220225T012358, end_date=20220225T013208
+[2022-02-25 01:32:08,979] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-02-25 01:32:09,126] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
