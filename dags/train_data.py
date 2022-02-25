@@ -1,6 +1,4 @@
 ##Credit https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk#step-3-normalizing-the-data
-from h11 import Data
-from scipy import rand
 #import spacy
 import nltk
 import re
@@ -10,25 +8,25 @@ import pandas as pd ## organize data
 ##AccuracyScore
 import random
 import re,string 
-import abc
-import json
-from nltk.corpus import stopwords
+
+
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag 
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk import FreqDist
-import spacy as sp
 
 
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
-nltk.download('omw-1.4') 
+#nltk.download('stopwords')
+#nltk.download('punkt')
+#nltk.download('averaged_perceptron_tagger')
+#nltk.download('wordnet')
+#nltk.download('omw-1.4') 
 global all_stopwords
 
-stop_me = sp.load('en_core_web_sm')
-all_stopwords = stop_me.Defaults.stop_words
+with open('./stopwords.txt', 'r') as f:
+    all_stop_words = f.read().split(',')
+
+all_stopwords = set(all_stop_words)
 
 
 class CleanData:
@@ -127,10 +125,10 @@ class Train():
 
         from nltk.corpus import stopwords
         stop_words = stopwords.words('english')
-        nltk.download('omw-1.4') # Lemmatize the sentence
+        #nltk.download('omw-1.4') # Lemmatize the sentence
         from nltk.tag import pos_tag 
         from nltk.stem.wordnet import WordNetLemmatizer
-        nltk.download('stopwords')
+        #nltk.download('stopwords')
 
         positive_cleaned_tokens_list = []
         negative_cleaned_tokens_list = []
@@ -211,9 +209,9 @@ DataCleaning = CleanData()
 
 
 
-yelp = pd.read_table('yelp_labelled.txt')
-amazon = pd.read_table('amazon_cells_labelled.txt')
-imdb = pd.read_table('imdb_labelled.txt')
+yelp = pd.read_table('./yelp_labelled.txt')
+amazon = pd.read_table('./amazon_cells_labelled.txt')
+imdb = pd.read_table('./imdb_labelled.txt')
 
 
 dataframes = [yelp, amazon, imdb] ## list of dataframes
@@ -237,3 +235,5 @@ custom_tweet = 'I hate this'
 
 training = Train(df)
 
+x = training.train(custom_tweet)
+print(x)

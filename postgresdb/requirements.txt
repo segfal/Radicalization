@@ -10,7 +10,6 @@ pandas
 numpy
 tweepy
 praw
-XlsxWriter
 requests
 python-dotenv
 flask
@@ -18,13 +17,6 @@ pandas
 openpyxl
 spacy
 nltk 
-
-
-nltk
-matplotlib
-sklearn
-requests
-transformers
 flask
 flask-cors
 requests

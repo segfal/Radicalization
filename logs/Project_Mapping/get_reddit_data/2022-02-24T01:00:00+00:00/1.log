@@ -1,0 +1,23 @@
+[2022-02-24 20:00:43,915] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-24T01:00:00+00:00 [queued]>
+[2022-02-24 20:00:43,983] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-24T01:00:00+00:00 [queued]>
+[2022-02-24 20:00:43,987] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-24 20:00:43,990] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-24 20:00:43,992] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-24 20:00:44,081] {taskinstance.py:1259} INFO - Executing <Task(_PythonDecoratedOperator): get_reddit_data> on 2022-02-24 01:00:00+00:00
+[2022-02-24 20:00:44,093] {standard_task_runner.py:52} INFO - Started process 571 to run task
+[2022-02-24 20:00:44,109] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'Project_Mapping', 'get_reddit_data', 'scheduled__2022-02-24T01:00:00+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/mydag.py', '--cfg-path', '/tmp/tmp_vdxkutl', '--error-file', '/tmp/tmpm9fi9p6v']
+[2022-02-24 20:00:44,116] {standard_task_runner.py:77} INFO - Job 35: Subtask get_reddit_data
+[2022-02-24 20:00:44,403] {logging_mixin.py:109} INFO - Running <TaskInstance: Project_Mapping.get_reddit_data scheduled__2022-02-24T01:00:00+00:00 [running]> on host 717d92cd82bb
+[2022-02-24 20:00:44,719] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=Project_Mapping
+AIRFLOW_CTX_TASK_ID=get_reddit_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-24T01:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-02-24T01:00:00+00:00
+[2022-02-24 20:12:09,905] {logging_mixin.py:109} INFO - Negative
+[2022-02-24 21:00:22,736] {local_task_job.py:154} INFO - Task exited with return code Negsignal.SIGKILL
+[2022-02-24 21:01:25,857] {taskinstance.py:1277} INFO - Marking task as FAILED. dag_id=Project_Mapping, task_id=get_reddit_data, execution_date=20220224T010000, start_date=20220224T200043, end_date=20220224T210123
+[2022-02-24 21:04:15,385] {dagrun.py:628} WARNING - Failed to get task '<TaskInstance: Project_Mapping.loading_data scheduled__2022-02-24T01:00:00+00:00 [None]>' for dag 'Project_Mapping'. Marking it as removed.
+[2022-02-24 21:05:24,185] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

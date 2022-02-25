@@ -8,7 +8,7 @@ import dotenv
 import loadtopgres as pgres
 import s3 as s3boto
 import nltk
-import spacy
+
 
 
 
@@ -26,7 +26,7 @@ class Reddit(pgres.LoadData , s3boto.PushToS3 , train.CleanData):
         super(s3boto.PushToS3).__init__()
         #inherit from CleanData class
         super(train.CleanData).__init__()
-        self.nlp = spacy.load('en_core_web_sm')
+        
         self.stopwords = nltk.corpus.stopwords.words('english')
         self.reddit_key = os.getenv('REDDIT_KEY')
         self.reddit_secret = os.getenv('REDDIT_SECRET')
@@ -112,6 +112,56 @@ class Reddit(pgres.LoadData , s3boto.PushToS3 , train.CleanData):
             return pd.read_excel(f"reddit_posts_{datepulled}.xlsx")
         else:
             return None
+    
+    def load_data(self):
+        #find excel spreadsheets for the past 30 days
+        host = "host.docker.internal"
+        #host = "localhost"
+        conn = pgres.pgres.connect(database="social_network", user="airflow", password="airflow", host=self.host, port="5432")
+        cur = conn.cursor()
+
+         ##Find excel files in current directory
+        year = datetime.datetime.now().strftime("%Y")
+        month = datetime.datetime.now().strftime("%m")
+        for i in range(0,30):
+            ## get the file name
+            filename = "" + str(year) + "-" + str(month) + "-" + str(i) + ".xlsx"
+            ## check if file exists
+            if os.path.isfile(filename):
+                ## read the file
+                df = pd.read_excel(filename)
+                ## iterate through the rows
+                for index,row in df.iterrows():
+                    ## check if row is empty
+                    if pd.isna(row['text']):
+                        continue
+                    else:
+                        ## check if row is already in the database
+                        cur.execute("SELECT * FROM reddit_posts WHERE postid = %s",(row['postid'],))
+                        result = cur.fetchone()
+                        if result == None:
+                            ## insert row into database
+                            cur.execute("INSERT INTO reddit_posts (date,postid,subreddit,title,text,upvote,sentiment) VALUES (%s,%s,%s,%s,%s,%s,%s)",(row['date'],row['postid'],row['subreddit'],row['title'],row['text'],row['upvote'],row['sentiment']))
+                            conn.commit()
+                            print(f"Added {row['postid']} to database")
+                        else:
+                            continue
+
+                ##push to postgres
+             
+            
+        
+                
+            
+        else: pass
+        conn.commit()
+        conn.close()
+        return None
+
+
+
+
+
     def push_to_s3(self):
 
         dotenv.load_dotenv()

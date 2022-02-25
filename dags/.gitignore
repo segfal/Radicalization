@@ -5,3 +5,6 @@ __pycache__
 rando.py
 tutorial.py
 some_test.py
+/stopwords.txt
+/yelp_labelled.txt
+/amazon_cells_labelled.txt
