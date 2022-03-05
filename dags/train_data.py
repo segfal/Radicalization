@@ -231,9 +231,15 @@ for i in df['message']:
     i = DataCleaning.remove_stopwords(i)
 
 
-custom_tweet = 'I hate this'
+
+
+
+
 
 training = Train(df)
-
-x = training.train(custom_tweet)
+custom_msg = 'I hate this'
+x = training.train(custom_msg)
 print(x)
+x = training.train('life is awesome')
+print(x)
+

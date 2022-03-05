@@ -94,7 +94,18 @@ get_reddit_data = PythonOperator(
     python_callable=_get_reddit_data,
     dag=dag)
 
+get_youtube_data = DummyOperator(
+    task_id = "get_youtube_data",
+    dag = dag
 
+)
+
+
+get_twitter_data = DummyOperator(
+    task_id = "get_twitter_data",
+    dag = dag
+
+)
 
 loading_data = PythonOperator(
     task_id="loading_data",
@@ -108,6 +119,8 @@ load_to_s3 = PythonOperator(
     dag=dag)
 
 
+
+
 ##First Task
-get_reddit_data >> loading_data >> load_to_s3
+[get_reddit_data,get_twitter_data,get_youtube_data] >> loading_data >> load_to_s3
 

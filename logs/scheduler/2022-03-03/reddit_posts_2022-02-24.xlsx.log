@@ -1,0 +1,1315 @@
+[2022-03-03 20:40:39,821] {processor.py:163} INFO - Started process (PID=145) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:40:39,834] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:40:39,842] {logging_mixin.py:109} INFO - [2022-03-03 20:40:39,842] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:40:39,909] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:40:39,925] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.117 seconds
+[2022-03-03 20:41:10,667] {processor.py:163} INFO - Started process (PID=233) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:10,674] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:41:10,682] {logging_mixin.py:109} INFO - [2022-03-03 20:41:10,681] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:10,798] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:10,823] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.173 seconds
+[2022-03-03 20:41:41,097] {processor.py:163} INFO - Started process (PID=337) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:41,104] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:41:41,108] {logging_mixin.py:109} INFO - [2022-03-03 20:41:41,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:41,155] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:41:41,166] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.077 seconds
+[2022-03-03 20:42:11,448] {processor.py:163} INFO - Started process (PID=425) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:11,454] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:42:11,458] {logging_mixin.py:109} INFO - [2022-03-03 20:42:11,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:11,504] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:11,518] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.078 seconds
+[2022-03-03 20:42:42,086] {processor.py:163} INFO - Started process (PID=531) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:42,092] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:42:42,096] {logging_mixin.py:109} INFO - [2022-03-03 20:42:42,096] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:42,141] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:42:42,153] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.075 seconds
+[2022-03-03 20:43:12,732] {processor.py:163} INFO - Started process (PID=620) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:12,738] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:43:12,742] {logging_mixin.py:109} INFO - [2022-03-03 20:43:12,741] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:12,789] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:12,801] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.076 seconds
+[2022-03-03 20:43:43,186] {processor.py:163} INFO - Started process (PID=730) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:43,192] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:43:43,195] {logging_mixin.py:109} INFO - [2022-03-03 20:43:43,195] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:43,240] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:43:43,251] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 20:44:13,577] {processor.py:163} INFO - Started process (PID=819) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:13,581] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:44:13,584] {logging_mixin.py:109} INFO - [2022-03-03 20:44:13,584] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:13,624] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:13,632] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.063 seconds
+[2022-03-03 20:44:43,741] {processor.py:163} INFO - Started process (PID=925) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:43,746] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:44:43,750] {logging_mixin.py:109} INFO - [2022-03-03 20:44:43,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:43,795] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:44:43,805] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 20:45:14,507] {processor.py:163} INFO - Started process (PID=1015) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:14,512] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:45:14,515] {logging_mixin.py:109} INFO - [2022-03-03 20:45:14,515] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:14,561] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:14,574] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 20:45:44,787] {processor.py:163} INFO - Started process (PID=1121) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:44,792] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:45:44,796] {logging_mixin.py:109} INFO - [2022-03-03 20:45:44,796] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:44,838] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:45:44,849] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 20:46:15,272] {processor.py:163} INFO - Started process (PID=1208) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:15,276] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:46:15,280] {logging_mixin.py:109} INFO - [2022-03-03 20:46:15,279] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:15,321] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:15,331] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 20:46:45,731] {processor.py:163} INFO - Started process (PID=1313) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:45,737] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:46:45,740] {logging_mixin.py:109} INFO - [2022-03-03 20:46:45,740] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:45,787] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:46:45,798] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 20:47:16,424] {processor.py:163} INFO - Started process (PID=1402) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:16,441] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:47:16,444] {logging_mixin.py:109} INFO - [2022-03-03 20:47:16,444] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:16,480] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:16,489] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 20:47:46,537] {processor.py:163} INFO - Started process (PID=1508) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:46,542] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:47:46,546] {logging_mixin.py:109} INFO - [2022-03-03 20:47:46,545] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:46,586] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:47:46,595] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 20:48:16,699] {processor.py:163} INFO - Started process (PID=1597) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:16,722] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:48:16,743] {logging_mixin.py:109} INFO - [2022-03-03 20:48:16,741] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:16,820] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:16,831] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.143 seconds
+[2022-03-03 20:48:46,897] {processor.py:163} INFO - Started process (PID=1701) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:46,902] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:48:46,905] {logging_mixin.py:109} INFO - [2022-03-03 20:48:46,904] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:46,942] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:48:46,953] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.063 seconds
+[2022-03-03 20:49:17,630] {processor.py:163} INFO - Started process (PID=1799) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:17,635] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:49:17,642] {logging_mixin.py:109} INFO - [2022-03-03 20:49:17,641] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:17,687] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:17,698] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.077 seconds
+[2022-03-03 20:49:48,033] {processor.py:163} INFO - Started process (PID=1895) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:48,038] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:49:48,042] {logging_mixin.py:109} INFO - [2022-03-03 20:49:48,041] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:48,083] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:49:48,092] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 20:50:18,572] {processor.py:163} INFO - Started process (PID=1995) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:18,595] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:50:18,599] {logging_mixin.py:109} INFO - [2022-03-03 20:50:18,599] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:18,660] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:18,671] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds
+[2022-03-03 20:50:48,892] {processor.py:163} INFO - Started process (PID=2085) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:48,897] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:50:48,900] {logging_mixin.py:109} INFO - [2022-03-03 20:50:48,900] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:48,940] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:50:48,951] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 20:51:19,222] {processor.py:163} INFO - Started process (PID=2185) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:19,228] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:51:19,232] {logging_mixin.py:109} INFO - [2022-03-03 20:51:19,231] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:19,275] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:19,286] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 20:51:49,427] {processor.py:163} INFO - Started process (PID=2274) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:49,434] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:51:49,437] {logging_mixin.py:109} INFO - [2022-03-03 20:51:49,437] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:49,490] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:51:49,504] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.086 seconds
+[2022-03-03 20:52:19,935] {processor.py:163} INFO - Started process (PID=2380) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:19,942] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:52:19,947] {logging_mixin.py:109} INFO - [2022-03-03 20:52:19,946] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:19,987] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:19,997] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 20:52:50,207] {processor.py:163} INFO - Started process (PID=2467) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:50,212] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:52:50,216] {logging_mixin.py:109} INFO - [2022-03-03 20:52:50,215] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:50,255] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:52:50,266] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 20:53:20,964] {processor.py:163} INFO - Started process (PID=2571) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:20,969] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:53:20,973] {logging_mixin.py:109} INFO - [2022-03-03 20:53:20,972] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:21,014] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:21,024] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 20:53:51,689] {processor.py:163} INFO - Started process (PID=2660) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:51,693] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:53:51,696] {logging_mixin.py:109} INFO - [2022-03-03 20:53:51,696] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:51,733] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:53:51,744] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.063 seconds
+[2022-03-03 20:54:22,248] {processor.py:163} INFO - Started process (PID=2766) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:22,253] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:54:22,256] {logging_mixin.py:109} INFO - [2022-03-03 20:54:22,256] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:22,301] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:22,312] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 20:54:52,895] {processor.py:163} INFO - Started process (PID=2855) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:52,901] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:54:52,904] {logging_mixin.py:109} INFO - [2022-03-03 20:54:52,904] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:52,942] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:54:52,953] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 20:55:23,499] {processor.py:163} INFO - Started process (PID=2961) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:23,505] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:55:23,509] {logging_mixin.py:109} INFO - [2022-03-03 20:55:23,508] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:23,550] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:23,566] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.076 seconds
+[2022-03-03 20:55:54,187] {processor.py:163} INFO - Started process (PID=3049) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:54,192] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:55:54,195] {logging_mixin.py:109} INFO - [2022-03-03 20:55:54,195] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:54,231] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:55:54,241] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.062 seconds
+[2022-03-03 20:56:24,951] {processor.py:163} INFO - Started process (PID=3154) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:24,956] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:56:24,959] {logging_mixin.py:109} INFO - [2022-03-03 20:56:24,959] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:25,122] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:25,133] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.191 seconds
+[2022-03-03 20:56:55,783] {processor.py:163} INFO - Started process (PID=3243) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:55,788] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:56:55,791] {logging_mixin.py:109} INFO - [2022-03-03 20:56:55,791] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:55,829] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:56:55,838] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 20:57:26,225] {processor.py:163} INFO - Started process (PID=3349) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:26,231] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:57:26,234] {logging_mixin.py:109} INFO - [2022-03-03 20:57:26,233] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:26,274] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:26,283] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 20:57:56,640] {processor.py:163} INFO - Started process (PID=3437) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:56,645] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:57:56,648] {logging_mixin.py:109} INFO - [2022-03-03 20:57:56,648] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:56,689] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:57:56,699] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 20:58:26,830] {processor.py:163} INFO - Started process (PID=3544) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:26,835] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:58:26,838] {logging_mixin.py:109} INFO - [2022-03-03 20:58:26,838] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:26,883] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:26,893] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 20:58:57,447] {processor.py:163} INFO - Started process (PID=3647) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:57,452] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:58:57,456] {logging_mixin.py:109} INFO - [2022-03-03 20:58:57,455] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:57,497] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:58:57,507] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 20:59:27,616] {processor.py:163} INFO - Started process (PID=3738) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:27,621] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:59:27,625] {logging_mixin.py:109} INFO - [2022-03-03 20:59:27,625] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:27,669] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:27,681] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 20:59:57,816] {processor.py:163} INFO - Started process (PID=3838) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:57,822] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 20:59:57,826] {logging_mixin.py:109} INFO - [2022-03-03 20:59:57,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:57,873] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 20:59:57,886] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.078 seconds
+[2022-03-03 21:00:28,149] {processor.py:163} INFO - Started process (PID=3926) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:28,154] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:00:28,157] {logging_mixin.py:109} INFO - [2022-03-03 21:00:28,157] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:28,196] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:28,207] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 21:00:58,439] {processor.py:163} INFO - Started process (PID=4021) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:58,444] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:00:58,449] {logging_mixin.py:109} INFO - [2022-03-03 21:00:58,448] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:58,502] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:00:58,514] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.084 seconds
+[2022-03-03 21:01:28,615] {processor.py:163} INFO - Started process (PID=4114) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:28,620] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:01:28,623] {logging_mixin.py:109} INFO - [2022-03-03 21:01:28,622] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:28,667] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:28,677] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.071 seconds
+[2022-03-03 21:01:58,774] {processor.py:163} INFO - Started process (PID=4213) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:58,779] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:01:58,783] {logging_mixin.py:109} INFO - [2022-03-03 21:01:58,782] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:58,824] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:01:58,834] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.068 seconds
+[2022-03-03 21:02:28,992] {processor.py:163} INFO - Started process (PID=4300) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:28,998] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:02:29,002] {logging_mixin.py:109} INFO - [2022-03-03 21:02:29,001] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:29,052] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:29,064] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.081 seconds
+[2022-03-03 21:02:59,269] {processor.py:163} INFO - Started process (PID=4404) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:59,273] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:02:59,277] {logging_mixin.py:109} INFO - [2022-03-03 21:02:59,277] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:59,319] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:02:59,330] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 21:03:30,001] {processor.py:163} INFO - Started process (PID=4493) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:03:30,006] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:03:30,010] {logging_mixin.py:109} INFO - [2022-03-03 21:03:30,009] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:03:30,058] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:03:30,072] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.078 seconds
+[2022-03-03 21:04:00,503] {processor.py:163} INFO - Started process (PID=4600) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:00,509] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:04:00,513] {logging_mixin.py:109} INFO - [2022-03-03 21:04:00,512] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:00,559] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:00,576] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.082 seconds
+[2022-03-03 21:04:31,101] {processor.py:163} INFO - Started process (PID=4692) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:31,106] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:04:31,110] {logging_mixin.py:109} INFO - [2022-03-03 21:04:31,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:31,156] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:04:31,170] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.077 seconds
+[2022-03-03 21:05:01,619] {processor.py:163} INFO - Started process (PID=4794) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:01,625] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:05:01,629] {logging_mixin.py:109} INFO - [2022-03-03 21:05:01,629] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:01,671] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:01,683] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 21:05:32,375] {processor.py:163} INFO - Started process (PID=4882) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:32,380] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:05:32,384] {logging_mixin.py:109} INFO - [2022-03-03 21:05:32,383] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:32,419] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:05:32,428] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.061 seconds
+[2022-03-03 21:06:03,081] {processor.py:163} INFO - Started process (PID=4988) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:03,086] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:06:03,089] {logging_mixin.py:109} INFO - [2022-03-03 21:06:03,089] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:03,130] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:03,140] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 21:06:33,725] {processor.py:163} INFO - Started process (PID=5074) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:33,730] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:06:33,733] {logging_mixin.py:109} INFO - [2022-03-03 21:06:33,732] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:33,769] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:06:33,779] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.062 seconds
+[2022-03-03 21:07:04,582] {processor.py:163} INFO - Started process (PID=5184) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:04,586] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:07:04,590] {logging_mixin.py:109} INFO - [2022-03-03 21:07:04,589] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:04,638] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:04,649] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 21:07:35,315] {processor.py:163} INFO - Started process (PID=5274) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:35,320] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:07:35,323] {logging_mixin.py:109} INFO - [2022-03-03 21:07:35,323] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:35,362] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:07:35,371] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.062 seconds
+[2022-03-03 21:08:17,855] {processor.py:163} INFO - Started process (PID=5352) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:17,862] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:08:17,867] {logging_mixin.py:109} INFO - [2022-03-03 21:08:17,867] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:17,909] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:17,918] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 21:08:48,923] {processor.py:163} INFO - Started process (PID=5458) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:48,928] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:08:48,931] {logging_mixin.py:109} INFO - [2022-03-03 21:08:48,930] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:48,971] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:08:48,981] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 21:12:33,000] {processor.py:163} INFO - Started process (PID=5547) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:12:33,005] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:12:33,010] {logging_mixin.py:109} INFO - [2022-03-03 21:12:33,009] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:12:33,052] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:12:33,062] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 21:13:19,603] {processor.py:163} INFO - Started process (PID=5653) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:19,609] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:13:19,615] {logging_mixin.py:109} INFO - [2022-03-03 21:13:19,614] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:19,712] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:19,760] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.172 seconds
+[2022-03-03 21:13:49,824] {processor.py:163} INFO - Started process (PID=5741) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:49,830] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:13:49,834] {logging_mixin.py:109} INFO - [2022-03-03 21:13:49,834] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:49,882] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:13:49,892] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.077 seconds
+[2022-03-03 21:16:03,525] {processor.py:163} INFO - Started process (PID=5848) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:03,530] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:16:03,533] {logging_mixin.py:109} INFO - [2022-03-03 21:16:03,533] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:03,578] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:03,589] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.071 seconds
+[2022-03-03 21:16:33,883] {processor.py:163} INFO - Started process (PID=5937) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:33,889] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:16:33,893] {logging_mixin.py:109} INFO - [2022-03-03 21:16:33,892] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:33,935] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:16:33,945] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 21:23:12,607] {processor.py:163} INFO - Started process (PID=6042) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:23:12,612] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:23:12,618] {logging_mixin.py:109} INFO - [2022-03-03 21:23:12,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:23:12,677] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:23:12,692] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.096 seconds
+[2022-03-03 21:28:13,888] {processor.py:163} INFO - Started process (PID=6130) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:13,898] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:28:13,903] {logging_mixin.py:109} INFO - [2022-03-03 21:28:13,903] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:13,978] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:13,991] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.115 seconds
+[2022-03-03 21:28:44,843] {processor.py:163} INFO - Started process (PID=6236) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:44,861] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:28:44,866] {logging_mixin.py:109} INFO - [2022-03-03 21:28:44,865] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:44,986] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:28:45,013] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.198 seconds
+[2022-03-03 21:29:53,186] {processor.py:163} INFO - Started process (PID=6325) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:29:53,190] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:29:53,193] {logging_mixin.py:109} INFO - [2022-03-03 21:29:53,192] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:29:53,228] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:29:53,237] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.058 seconds
+[2022-03-03 21:41:11,058] {processor.py:163} INFO - Started process (PID=6436) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:11,063] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:41:11,067] {logging_mixin.py:109} INFO - [2022-03-03 21:41:11,066] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:11,111] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:11,123] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 21:41:42,137] {processor.py:163} INFO - Started process (PID=6525) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:42,142] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:41:42,146] {logging_mixin.py:109} INFO - [2022-03-03 21:41:42,145] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:42,181] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:41:42,190] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.060 seconds
+[2022-03-03 21:58:11,811] {processor.py:163} INFO - Started process (PID=6630) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:11,816] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:58:11,820] {logging_mixin.py:109} INFO - [2022-03-03 21:58:11,819] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:11,866] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:11,877] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 21:58:42,011] {processor.py:163} INFO - Started process (PID=6717) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:42,017] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 21:58:42,020] {logging_mixin.py:109} INFO - [2022-03-03 21:58:42,020] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:42,067] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 21:58:42,078] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.080 seconds
+[2022-03-03 22:16:35,726] {processor.py:163} INFO - Started process (PID=6825) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:16:35,737] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:16:35,747] {logging_mixin.py:109} INFO - [2022-03-03 22:16:35,746] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:16:35,833] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:16:35,855] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.141 seconds
+[2022-03-03 22:17:06,196] {processor.py:163} INFO - Started process (PID=6913) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:06,201] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:17:06,204] {logging_mixin.py:109} INFO - [2022-03-03 22:17:06,204] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:06,250] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:06,261] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 22:17:36,398] {processor.py:163} INFO - Started process (PID=7018) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:36,403] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:17:36,407] {logging_mixin.py:109} INFO - [2022-03-03 22:17:36,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:36,446] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:17:36,455] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:18:07,109] {processor.py:163} INFO - Started process (PID=7106) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:07,113] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:18:07,117] {logging_mixin.py:109} INFO - [2022-03-03 22:18:07,116] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:07,152] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:07,162] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.060 seconds
+[2022-03-03 22:18:37,553] {processor.py:163} INFO - Started process (PID=7211) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:37,559] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:18:37,562] {logging_mixin.py:109} INFO - [2022-03-03 22:18:37,561] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:37,602] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:18:37,612] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:19:07,990] {processor.py:163} INFO - Started process (PID=7301) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:07,994] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:19:07,997] {logging_mixin.py:109} INFO - [2022-03-03 22:19:07,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:08,032] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:08,041] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.057 seconds
+[2022-03-03 22:19:38,178] {processor.py:163} INFO - Started process (PID=7408) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:38,184] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:19:38,188] {logging_mixin.py:109} INFO - [2022-03-03 22:19:38,187] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:38,225] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:19:38,235] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:21:21,898] {processor.py:163} INFO - Started process (PID=7499) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:21,903] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:21:21,906] {logging_mixin.py:109} INFO - [2022-03-03 22:21:21,906] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:21,946] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:21,956] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:21:52,447] {processor.py:163} INFO - Started process (PID=7605) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:52,455] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:21:52,459] {logging_mixin.py:109} INFO - [2022-03-03 22:21:52,459] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:52,526] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:21:52,548] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds
+[2022-03-03 22:22:22,603] {processor.py:163} INFO - Started process (PID=7691) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:22,608] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:22:22,611] {logging_mixin.py:109} INFO - [2022-03-03 22:22:22,611] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:22,647] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:22,655] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.059 seconds
+[2022-03-03 22:22:52,802] {processor.py:163} INFO - Started process (PID=7796) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:52,808] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:22:52,813] {logging_mixin.py:109} INFO - [2022-03-03 22:22:52,812] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:52,859] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:22:52,871] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.078 seconds
+[2022-03-03 22:23:23,411] {processor.py:163} INFO - Started process (PID=7884) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:23,418] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:23:23,423] {logging_mixin.py:109} INFO - [2022-03-03 22:23:23,422] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:23,478] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:23,493] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.091 seconds
+[2022-03-03 22:23:53,857] {processor.py:163} INFO - Started process (PID=7992) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:53,862] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:23:53,866] {logging_mixin.py:109} INFO - [2022-03-03 22:23:53,865] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:53,906] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:23:53,915] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:24:24,033] {processor.py:163} INFO - Started process (PID=8081) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:24,038] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:24:24,041] {logging_mixin.py:109} INFO - [2022-03-03 22:24:24,041] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:24,078] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:24,087] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.060 seconds
+[2022-03-03 22:24:54,285] {processor.py:163} INFO - Started process (PID=8188) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:54,289] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:24:54,293] {logging_mixin.py:109} INFO - [2022-03-03 22:24:54,292] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:54,329] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:24:54,339] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.061 seconds
+[2022-03-03 22:25:24,824] {processor.py:163} INFO - Started process (PID=8278) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:24,830] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:25:24,833] {logging_mixin.py:109} INFO - [2022-03-03 22:25:24,833] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:24,872] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:24,883] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:25:54,941] {processor.py:163} INFO - Started process (PID=8384) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:54,947] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:25:54,953] {logging_mixin.py:109} INFO - [2022-03-03 22:25:54,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:55,011] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:25:55,022] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.090 seconds
+[2022-03-03 22:26:25,143] {processor.py:163} INFO - Started process (PID=8484) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:25,148] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:26:25,152] {logging_mixin.py:109} INFO - [2022-03-03 22:26:25,152] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:25,202] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:25,214] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.079 seconds
+[2022-03-03 22:26:55,584] {processor.py:163} INFO - Started process (PID=8579) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:55,592] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:26:55,596] {logging_mixin.py:109} INFO - [2022-03-03 22:26:55,596] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:55,638] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:26:55,648] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 22:27:26,454] {processor.py:163} INFO - Started process (PID=8679) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:26,459] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:27:26,463] {logging_mixin.py:109} INFO - [2022-03-03 22:27:26,462] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:26,503] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:26,513] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:27:56,799] {processor.py:163} INFO - Started process (PID=8774) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:56,806] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:27:56,810] {logging_mixin.py:109} INFO - [2022-03-03 22:27:56,810] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:56,868] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:27:56,880] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.089 seconds
+[2022-03-03 22:28:27,311] {processor.py:163} INFO - Started process (PID=8879) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:27,316] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:28:27,320] {logging_mixin.py:109} INFO - [2022-03-03 22:28:27,319] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:27,362] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:27,374] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 22:28:57,593] {processor.py:163} INFO - Started process (PID=8968) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:57,600] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:28:57,604] {logging_mixin.py:109} INFO - [2022-03-03 22:28:57,603] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:57,658] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:28:57,672] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.089 seconds
+[2022-03-03 22:29:27,767] {processor.py:163} INFO - Started process (PID=9075) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:27,774] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:29:27,777] {logging_mixin.py:109} INFO - [2022-03-03 22:29:27,777] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:27,820] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:27,831] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:29:58,101] {processor.py:163} INFO - Started process (PID=9164) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:58,106] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:29:58,110] {logging_mixin.py:109} INFO - [2022-03-03 22:29:58,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:58,149] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:29:58,160] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 22:30:28,985] {processor.py:163} INFO - Started process (PID=9267) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:29,010] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:30:29,015] {logging_mixin.py:109} INFO - [2022-03-03 22:30:29,015] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:29,064] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:29,074] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.100 seconds
+[2022-03-03 22:30:59,912] {processor.py:163} INFO - Started process (PID=9352) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:59,919] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:30:59,923] {logging_mixin.py:109} INFO - [2022-03-03 22:30:59,922] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:59,969] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:30:59,980] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.077 seconds
+[2022-03-03 22:31:30,899] {processor.py:163} INFO - Started process (PID=9450) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:31:30,904] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:31:30,909] {logging_mixin.py:109} INFO - [2022-03-03 22:31:30,908] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:31:30,954] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:31:30,965] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.075 seconds
+[2022-03-03 22:32:01,288] {processor.py:163} INFO - Started process (PID=9519) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:01,293] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:32:01,297] {logging_mixin.py:109} INFO - [2022-03-03 22:32:01,297] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:01,336] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:01,348] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 22:32:31,665] {processor.py:163} INFO - Started process (PID=9617) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:31,688] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:32:31,707] {logging_mixin.py:109} INFO - [2022-03-03 22:32:31,706] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:31,752] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:32:31,763] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.106 seconds
+[2022-03-03 22:33:02,378] {processor.py:163} INFO - Started process (PID=9705) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:02,384] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:33:02,388] {logging_mixin.py:109} INFO - [2022-03-03 22:33:02,387] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:02,430] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:02,440] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 22:33:32,801] {processor.py:163} INFO - Started process (PID=9812) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:32,805] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:33:32,809] {logging_mixin.py:109} INFO - [2022-03-03 22:33:32,809] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:32,849] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:33:32,859] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 22:34:03,389] {processor.py:163} INFO - Started process (PID=9901) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:03,393] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:34:03,397] {logging_mixin.py:109} INFO - [2022-03-03 22:34:03,397] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:03,438] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:03,447] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 22:34:34,167] {processor.py:163} INFO - Started process (PID=10008) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:34,174] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:34:34,177] {logging_mixin.py:109} INFO - [2022-03-03 22:34:34,176] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:34,217] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:34:34,226] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 22:35:04,965] {processor.py:163} INFO - Started process (PID=10095) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:04,970] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:35:04,973] {logging_mixin.py:109} INFO - [2022-03-03 22:35:04,972] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:05,010] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:05,021] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:35:35,304] {processor.py:163} INFO - Started process (PID=10200) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:35,309] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:35:35,314] {logging_mixin.py:109} INFO - [2022-03-03 22:35:35,313] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:35,356] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:35:35,368] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:36:05,681] {processor.py:163} INFO - Started process (PID=10300) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:05,686] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:36:05,689] {logging_mixin.py:109} INFO - [2022-03-03 22:36:05,689] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:05,730] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:05,741] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.068 seconds
+[2022-03-03 22:36:36,420] {processor.py:163} INFO - Started process (PID=10396) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:36,425] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:36:36,429] {logging_mixin.py:109} INFO - [2022-03-03 22:36:36,428] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:36,475] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:36:36,486] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:37:07,006] {processor.py:163} INFO - Started process (PID=10496) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:07,012] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:37:07,016] {logging_mixin.py:109} INFO - [2022-03-03 22:37:07,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:07,060] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:07,071] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 22:37:37,496] {processor.py:163} INFO - Started process (PID=10590) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:37,502] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:37:37,505] {logging_mixin.py:109} INFO - [2022-03-03 22:37:37,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:37,544] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:37:37,554] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:38:07,628] {processor.py:163} INFO - Started process (PID=10696) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:07,633] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:38:07,636] {logging_mixin.py:109} INFO - [2022-03-03 22:38:07,636] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:07,688] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:07,700] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.083 seconds
+[2022-03-03 22:38:37,880] {processor.py:163} INFO - Started process (PID=10785) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:37,884] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:38:37,888] {logging_mixin.py:109} INFO - [2022-03-03 22:38:37,888] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:37,941] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:38:37,953] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.080 seconds
+[2022-03-03 22:39:08,403] {processor.py:163} INFO - Started process (PID=10891) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:08,408] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:39:08,412] {logging_mixin.py:109} INFO - [2022-03-03 22:39:08,411] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:08,455] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:08,467] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 22:39:39,232] {processor.py:163} INFO - Started process (PID=10980) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:39,237] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:39:39,241] {logging_mixin.py:109} INFO - [2022-03-03 22:39:39,240] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:39,283] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:39:39,293] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 22:40:09,634] {processor.py:163} INFO - Started process (PID=11085) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:09,639] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:40:09,643] {logging_mixin.py:109} INFO - [2022-03-03 22:40:09,642] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:09,683] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:09,694] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.069 seconds
+[2022-03-03 22:40:40,384] {processor.py:163} INFO - Started process (PID=11174) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:40,389] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:40:40,392] {logging_mixin.py:109} INFO - [2022-03-03 22:40:40,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:40,428] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:40:40,437] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.059 seconds
+[2022-03-03 22:41:10,841] {processor.py:163} INFO - Started process (PID=11281) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:10,857] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:41:10,862] {logging_mixin.py:109} INFO - [2022-03-03 22:41:10,861] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:10,922] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:10,933] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.099 seconds
+[2022-03-03 22:41:41,363] {processor.py:163} INFO - Started process (PID=11371) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:41,367] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:41:41,370] {logging_mixin.py:109} INFO - [2022-03-03 22:41:41,370] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:41,405] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:41:41,414] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.059 seconds
+[2022-03-03 22:42:11,629] {processor.py:163} INFO - Started process (PID=11477) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:11,635] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:42:11,639] {logging_mixin.py:109} INFO - [2022-03-03 22:42:11,639] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:11,691] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:11,702] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.081 seconds
+[2022-03-03 22:42:42,091] {processor.py:163} INFO - Started process (PID=11566) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:42,095] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:42:42,098] {logging_mixin.py:109} INFO - [2022-03-03 22:42:42,098] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:42,143] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:42:42,155] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.071 seconds
+[2022-03-03 22:43:12,779] {processor.py:163} INFO - Started process (PID=11675) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:12,784] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:43:12,788] {logging_mixin.py:109} INFO - [2022-03-03 22:43:12,787] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:12,833] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:12,845] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.075 seconds
+[2022-03-03 22:43:43,101] {processor.py:163} INFO - Started process (PID=11765) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:43,106] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:43:43,109] {logging_mixin.py:109} INFO - [2022-03-03 22:43:43,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:43,148] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:43:43,159] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 22:44:13,828] {processor.py:163} INFO - Started process (PID=11870) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:13,833] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:44:13,836] {logging_mixin.py:109} INFO - [2022-03-03 22:44:13,836] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:13,876] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:13,886] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:44:44,071] {processor.py:163} INFO - Started process (PID=11957) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:44,077] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:44:44,080] {logging_mixin.py:109} INFO - [2022-03-03 22:44:44,080] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:44,118] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:44:44,129] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 22:45:14,636] {processor.py:163} INFO - Started process (PID=12066) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:14,640] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:45:14,642] {logging_mixin.py:109} INFO - [2022-03-03 22:45:14,642] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:14,682] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:14,692] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:45:45,291] {processor.py:163} INFO - Started process (PID=12153) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:45,296] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:45:45,300] {logging_mixin.py:109} INFO - [2022-03-03 22:45:45,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:45,344] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:45:45,354] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 22:46:15,978] {processor.py:163} INFO - Started process (PID=12260) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:15,984] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:46:15,988] {logging_mixin.py:109} INFO - [2022-03-03 22:46:15,988] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:16,029] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:16,040] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 22:46:46,568] {processor.py:163} INFO - Started process (PID=12361) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:46,575] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:46:46,580] {logging_mixin.py:109} INFO - [2022-03-03 22:46:46,580] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:46,620] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:46:46,632] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:47:16,709] {processor.py:163} INFO - Started process (PID=12457) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:16,715] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:47:16,718] {logging_mixin.py:109} INFO - [2022-03-03 22:47:16,717] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:16,759] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:16,769] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.067 seconds
+[2022-03-03 22:47:47,055] {processor.py:163} INFO - Started process (PID=12554) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:47,060] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:47:47,063] {logging_mixin.py:109} INFO - [2022-03-03 22:47:47,062] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:47,104] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:47:47,116] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.070 seconds
+[2022-03-03 22:48:17,356] {processor.py:163} INFO - Started process (PID=12649) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:17,362] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:48:17,366] {logging_mixin.py:109} INFO - [2022-03-03 22:48:17,366] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:17,408] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:17,419] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.071 seconds
+[2022-03-03 22:48:47,617] {processor.py:163} INFO - Started process (PID=12756) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:47,622] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:48:47,626] {logging_mixin.py:109} INFO - [2022-03-03 22:48:47,626] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:47,669] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:48:47,681] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.071 seconds
+[2022-03-03 22:49:18,253] {processor.py:163} INFO - Started process (PID=12847) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:18,260] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:49:18,264] {logging_mixin.py:109} INFO - [2022-03-03 22:49:18,264] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:18,311] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:18,324] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.079 seconds
+[2022-03-03 22:49:48,591] {processor.py:163} INFO - Started process (PID=12950) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:48,597] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:49:48,601] {logging_mixin.py:109} INFO - [2022-03-03 22:49:48,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:48,653] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:49:48,663] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.080 seconds
+[2022-03-03 22:50:18,925] {processor.py:163} INFO - Started process (PID=13038) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:18,931] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:50:18,936] {logging_mixin.py:109} INFO - [2022-03-03 22:50:18,935] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:18,979] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:18,990] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 22:50:49,264] {processor.py:163} INFO - Started process (PID=13145) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:49,271] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:50:49,274] {logging_mixin.py:109} INFO - [2022-03-03 22:50:49,274] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:49,319] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:50:49,331] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.076 seconds
+[2022-03-03 22:51:19,676] {processor.py:163} INFO - Started process (PID=13234) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:19,681] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:51:19,684] {logging_mixin.py:109} INFO - [2022-03-03 22:51:19,683] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:19,722] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:19,731] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.061 seconds
+[2022-03-03 22:51:50,120] {processor.py:163} INFO - Started process (PID=13340) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:50,125] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:51:50,128] {logging_mixin.py:109} INFO - [2022-03-03 22:51:50,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:50,165] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:51:50,175] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.062 seconds
+[2022-03-03 22:52:21,052] {processor.py:163} INFO - Started process (PID=13429) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:21,057] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:52:21,060] {logging_mixin.py:109} INFO - [2022-03-03 22:52:21,060] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:21,099] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:21,109] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:52:51,436] {processor.py:163} INFO - Started process (PID=13539) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:51,441] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:52:51,447] {logging_mixin.py:109} INFO - [2022-03-03 22:52:51,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:51,491] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:52:51,501] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.074 seconds
+[2022-03-03 22:53:21,792] {processor.py:163} INFO - Started process (PID=13628) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:21,796] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:53:21,800] {logging_mixin.py:109} INFO - [2022-03-03 22:53:21,799] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:21,838] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:21,847] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 22:53:51,917] {processor.py:163} INFO - Started process (PID=13732) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:51,921] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:53:51,925] {logging_mixin.py:109} INFO - [2022-03-03 22:53:51,924] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:51,970] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:53:51,981] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:54:22,857] {processor.py:163} INFO - Started process (PID=13820) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:22,863] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:54:22,866] {logging_mixin.py:109} INFO - [2022-03-03 22:54:22,866] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:22,911] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:22,921] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.072 seconds
+[2022-03-03 22:54:53,438] {processor.py:163} INFO - Started process (PID=13927) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:53,444] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:54:53,448] {logging_mixin.py:109} INFO - [2022-03-03 22:54:53,448] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:53,498] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:54:53,510] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.079 seconds
+[2022-03-03 22:55:23,819] {processor.py:163} INFO - Started process (PID=14016) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:23,824] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:55:23,827] {logging_mixin.py:109} INFO - [2022-03-03 22:55:23,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:23,861] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:23,870] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.058 seconds
+[2022-03-03 22:55:54,657] {processor.py:163} INFO - Started process (PID=14122) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:54,663] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:55:54,667] {logging_mixin.py:109} INFO - [2022-03-03 22:55:54,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:54,720] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:55:54,734] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.085 seconds
+[2022-03-03 22:56:24,807] {processor.py:163} INFO - Started process (PID=14211) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:24,813] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:56:24,816] {logging_mixin.py:109} INFO - [2022-03-03 22:56:24,815] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:24,852] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:24,861] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.060 seconds
+[2022-03-03 22:56:54,988] {processor.py:163} INFO - Started process (PID=14317) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:54,994] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:56:55,028] {logging_mixin.py:109} INFO - [2022-03-03 22:56:55,027] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:55,069] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:56:55,080] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.100 seconds
+[2022-03-03 22:57:25,589] {processor.py:163} INFO - Started process (PID=14404) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:25,595] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:57:25,597] {logging_mixin.py:109} INFO - [2022-03-03 22:57:25,597] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:25,639] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:25,650] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.068 seconds
+[2022-03-03 22:57:55,810] {processor.py:163} INFO - Started process (PID=14510) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:55,816] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:57:55,819] {logging_mixin.py:109} INFO - [2022-03-03 22:57:55,819] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:55,856] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:57:55,866] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.063 seconds
+[2022-03-03 22:58:26,497] {processor.py:163} INFO - Started process (PID=14610) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:26,502] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:58:26,506] {logging_mixin.py:109} INFO - [2022-03-03 22:58:26,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:26,547] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:26,579] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.090 seconds
+[2022-03-03 22:58:56,903] {processor.py:163} INFO - Started process (PID=14705) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:56,908] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:58:56,911] {logging_mixin.py:109} INFO - [2022-03-03 22:58:56,910] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:56,962] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:58:56,981] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.087 seconds
+[2022-03-03 22:59:27,367] {processor.py:163} INFO - Started process (PID=14802) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:27,373] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:59:27,376] {logging_mixin.py:109} INFO - [2022-03-03 22:59:27,376] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:27,419] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:27,431] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.073 seconds
+[2022-03-03 22:59:58,386] {processor.py:163} INFO - Started process (PID=14895) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:58,392] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 22:59:58,395] {logging_mixin.py:109} INFO - [2022-03-03 22:59:58,395] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:58,435] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 22:59:58,444] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.066 seconds
+[2022-03-03 23:00:28,593] {processor.py:163} INFO - Started process (PID=14999) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:28,601] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:00:28,605] {logging_mixin.py:109} INFO - [2022-03-03 23:00:28,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:28,655] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:28,667] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.082 seconds
+[2022-03-03 23:00:59,560] {processor.py:163} INFO - Started process (PID=15085) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:59,568] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:00:59,573] {logging_mixin.py:109} INFO - [2022-03-03 23:00:59,572] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:59,629] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:00:59,644] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.094 seconds
+[2022-03-03 23:01:30,170] {processor.py:163} INFO - Started process (PID=15191) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:01:30,176] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:01:30,181] {logging_mixin.py:109} INFO - [2022-03-03 23:01:30,180] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:01:30,234] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:01:30,248] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.087 seconds
+[2022-03-03 23:02:00,962] {processor.py:163} INFO - Started process (PID=15280) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:00,967] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:02:00,972] {logging_mixin.py:109} INFO - [2022-03-03 23:02:00,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:01,018] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:01,032] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.080 seconds
+[2022-03-03 23:02:31,082] {processor.py:163} INFO - Started process (PID=15386) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:31,088] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:02:31,092] {logging_mixin.py:109} INFO - [2022-03-03 23:02:31,092] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:31,143] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:02:31,156] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.082 seconds
+[2022-03-03 23:03:01,453] {processor.py:163} INFO - Started process (PID=15474) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:01,459] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:03:01,465] {logging_mixin.py:109} INFO - [2022-03-03 23:03:01,465] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:01,511] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:01,525] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.081 seconds
+[2022-03-03 23:03:32,651] {processor.py:163} INFO - Started process (PID=15580) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:32,656] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:03:32,660] {logging_mixin.py:109} INFO - [2022-03-03 23:03:32,660] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:32,712] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:03:32,725] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.083 seconds
+[2022-03-03 23:04:03,172] {processor.py:163} INFO - Started process (PID=15659) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:03,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:04:03,180] {logging_mixin.py:109} INFO - [2022-03-03 23:04:03,180] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:03,219] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:03,229] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 23:04:34,391] {processor.py:163} INFO - Started process (PID=15758) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:34,397] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:04:34,404] {logging_mixin.py:109} INFO - [2022-03-03 23:04:34,404] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:34,455] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:04:34,467] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.086 seconds
+[2022-03-03 23:05:05,043] {processor.py:163} INFO - Started process (PID=15847) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:05,048] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:05:05,052] {logging_mixin.py:109} INFO - [2022-03-03 23:05:05,051] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:05,089] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:05,100] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.065 seconds
+[2022-03-03 23:05:35,235] {processor.py:163} INFO - Started process (PID=15949) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:35,241] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:05:35,244] {logging_mixin.py:109} INFO - [2022-03-03 23:05:35,244] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:35,282] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:05:35,292] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 23:06:05,577] {processor.py:163} INFO - Started process (PID=16036) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:05,583] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:06:05,587] {logging_mixin.py:109} INFO - [2022-03-03 23:06:05,587] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:05,624] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:05,635] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.064 seconds
+[2022-03-03 23:06:35,841] {processor.py:163} INFO - Started process (PID=16143) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:35,849] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:06:35,854] {logging_mixin.py:109} INFO - [2022-03-03 23:06:35,853] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:35,920] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:06:35,937] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.106 seconds
+[2022-03-03 23:07:06,019] {processor.py:163} INFO - Started process (PID=16229) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:06,029] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:07:06,040] {logging_mixin.py:109} INFO - [2022-03-03 23:07:06,038] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:06,127] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:06,157] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.152 seconds
+[2022-03-03 23:07:36,298] {processor.py:163} INFO - Started process (PID=16333) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:36,305] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:07:36,317] {logging_mixin.py:109} INFO - [2022-03-03 23:07:36,317] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:36,404] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:07:36,425] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.141 seconds
+[2022-03-03 23:08:07,192] {processor.py:163} INFO - Started process (PID=16432) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:07,201] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:08:07,217] {logging_mixin.py:109} INFO - [2022-03-03 23:08:07,216] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:07,293] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:07,311] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.129 seconds
+[2022-03-03 23:08:37,615] {processor.py:163} INFO - Started process (PID=16525) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:37,633] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:08:37,646] {logging_mixin.py:109} INFO - [2022-03-03 23:08:37,645] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:37,769] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:08:37,796] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.206 seconds
+[2022-03-03 23:09:08,049] {processor.py:163} INFO - Started process (PID=16622) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:08,064] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:09:08,082] {logging_mixin.py:109} INFO - [2022-03-03 23:09:08,081] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:08,214] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:08,256] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.222 seconds
+[2022-03-03 23:09:38,523] {processor.py:163} INFO - Started process (PID=16715) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:38,533] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:09:38,538] {logging_mixin.py:109} INFO - [2022-03-03 23:09:38,537] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:38,632] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:09:38,653] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.141 seconds
+[2022-03-03 23:10:08,873] {processor.py:163} INFO - Started process (PID=16805) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:08,897] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:10:08,921] {logging_mixin.py:109} INFO - [2022-03-03 23:10:08,921] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:09,053] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:09,118] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.301 seconds
+[2022-03-03 23:10:40,115] {processor.py:163} INFO - Started process (PID=16899) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:40,124] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:10:40,132] {logging_mixin.py:109} INFO - [2022-03-03 23:10:40,131] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:40,206] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:10:40,228] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.126 seconds
+[2022-03-03 23:11:10,355] {processor.py:163} INFO - Started process (PID=17002) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:10,363] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:11:10,367] {logging_mixin.py:109} INFO - [2022-03-03 23:11:10,367] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:10,425] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:10,441] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.097 seconds
+[2022-03-03 23:11:40,515] {processor.py:163} INFO - Started process (PID=17088) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:40,524] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:11:40,532] {logging_mixin.py:109} INFO - [2022-03-03 23:11:40,532] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:40,615] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:11:40,634] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.133 seconds
+[2022-03-03 23:12:11,100] {processor.py:163} INFO - Started process (PID=17194) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:11,108] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:12:11,116] {logging_mixin.py:109} INFO - [2022-03-03 23:12:11,115] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:11,186] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:11,205] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.116 seconds
+[2022-03-03 23:12:42,162] {processor.py:163} INFO - Started process (PID=17281) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:42,171] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:12:42,183] {logging_mixin.py:109} INFO - [2022-03-03 23:12:42,182] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:42,258] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:12:42,287] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.139 seconds
+[2022-03-03 23:13:12,450] {processor.py:163} INFO - Started process (PID=17385) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:12,457] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:13:12,464] {logging_mixin.py:109} INFO - [2022-03-03 23:13:12,464] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:12,532] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:12,550] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.113 seconds
+[2022-03-03 23:13:43,056] {processor.py:163} INFO - Started process (PID=17472) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:43,069] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:13:43,082] {logging_mixin.py:109} INFO - [2022-03-03 23:13:43,078] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:43,286] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:13:43,312] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.269 seconds
+[2022-03-03 23:14:13,760] {processor.py:163} INFO - Started process (PID=17581) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:13,768] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:14:13,774] {logging_mixin.py:109} INFO - [2022-03-03 23:14:13,773] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:13,832] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:13,850] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.099 seconds
+[2022-03-03 23:14:44,806] {processor.py:163} INFO - Started process (PID=17671) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:44,825] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:14:44,833] {logging_mixin.py:109} INFO - [2022-03-03 23:14:44,833] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:44,897] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:14:44,915] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.118 seconds
+[2022-03-03 23:15:15,737] {processor.py:163} INFO - Started process (PID=17777) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:15,746] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:15:15,752] {logging_mixin.py:109} INFO - [2022-03-03 23:15:15,751] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:15,829] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:15,846] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.118 seconds
+[2022-03-03 23:15:46,239] {processor.py:163} INFO - Started process (PID=17866) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:46,249] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:15:46,257] {logging_mixin.py:109} INFO - [2022-03-03 23:15:46,256] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:46,348] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:15:46,367] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.138 seconds
+[2022-03-03 23:16:16,828] {processor.py:163} INFO - Started process (PID=17968) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:16,837] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:16:16,844] {logging_mixin.py:109} INFO - [2022-03-03 23:16:16,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:16,907] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:16,924] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.107 seconds
+[2022-03-03 23:16:47,882] {processor.py:163} INFO - Started process (PID=18065) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:47,900] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:16:47,910] {logging_mixin.py:109} INFO - [2022-03-03 23:16:47,908] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:48,026] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:16:48,056] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.200 seconds
+[2022-03-03 23:17:23,219] {processor.py:163} INFO - Started process (PID=18153) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:17:23,254] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:17:23,281] {logging_mixin.py:109} INFO - [2022-03-03 23:17:23,280] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:17:23,521] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:17:23,559] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.364 seconds
+[2022-03-03 23:18:02,098] {processor.py:163} INFO - Started process (PID=18231) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:02,136] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:18:02,157] {logging_mixin.py:109} INFO - [2022-03-03 23:18:02,155] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:02,555] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:02,652] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.591 seconds
+[2022-03-03 23:18:36,982] {processor.py:163} INFO - Started process (PID=18298) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:36,999] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:18:37,016] {logging_mixin.py:109} INFO - [2022-03-03 23:18:37,015] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:37,347] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:18:37,406] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.456 seconds
+[2022-03-03 23:19:41,893] {processor.py:163} INFO - Started process (PID=18419) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:19:41,921] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:19:41,942] {logging_mixin.py:109} INFO - [2022-03-03 23:19:41,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:19:42,269] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:19:42,562] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.732 seconds
+[2022-03-03 23:20:37,422] {processor.py:163} INFO - Started process (PID=18506) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:20:37,455] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:20:37,482] {logging_mixin.py:109} INFO - [2022-03-03 23:20:37,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:20:37,754] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:20:37,830] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.469 seconds
+[2022-03-03 23:21:35,291] {processor.py:163} INFO - Started process (PID=18601) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:21:35,355] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:21:35,403] {logging_mixin.py:109} INFO - [2022-03-03 23:21:35,403] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:21:35,704] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:21:35,784] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.609 seconds
+[2022-03-03 23:22:14,559] {processor.py:163} INFO - Started process (PID=18679) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:22:14,598] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:22:14,624] {logging_mixin.py:109} INFO - [2022-03-03 23:22:14,624] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:22:14,881] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:22:14,939] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.482 seconds
+[2022-03-03 23:23:03,638] {processor.py:163} INFO - Started process (PID=18756) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:23:03,659] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:23:03,682] {logging_mixin.py:109} INFO - [2022-03-03 23:23:03,669] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:23:03,960] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:23:04,033] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.484 seconds
+[2022-03-03 23:24:03,193] {processor.py:163} INFO - Started process (PID=18874) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:03,245] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:24:03,269] {logging_mixin.py:109} INFO - [2022-03-03 23:24:03,268] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:03,546] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:03,618] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.477 seconds
+[2022-03-03 23:24:59,415] {processor.py:163} INFO - Started process (PID=18989) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:59,434] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:24:59,473] {logging_mixin.py:109} INFO - [2022-03-03 23:24:59,473] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:59,762] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:24:59,868] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.530 seconds
+[2022-03-03 23:25:44,955] {processor.py:163} INFO - Started process (PID=19079) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:25:44,965] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:25:44,982] {logging_mixin.py:109} INFO - [2022-03-03 23:25:44,981] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:25:45,298] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:25:45,369] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.477 seconds
+[2022-03-03 23:26:26,498] {processor.py:163} INFO - Started process (PID=19181) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:26,516] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:26:26,526] {logging_mixin.py:109} INFO - [2022-03-03 23:26:26,525] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:26,713] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:26,767] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.298 seconds
+[2022-03-03 23:26:57,981] {processor.py:163} INFO - Started process (PID=19269) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:57,999] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:26:58,009] {logging_mixin.py:109} INFO - [2022-03-03 23:26:58,008] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:58,161] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:26:58,186] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.236 seconds
+[2022-03-03 23:27:30,057] {processor.py:163} INFO - Started process (PID=19366) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:27:30,094] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:27:30,110] {logging_mixin.py:109} INFO - [2022-03-03 23:27:30,110] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:27:30,286] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:27:30,326] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.309 seconds
+[2022-03-03 23:28:03,759] {processor.py:163} INFO - Started process (PID=19450) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:03,790] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:28:03,801] {logging_mixin.py:109} INFO - [2022-03-03 23:28:03,800] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:03,959] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:04,024] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.301 seconds
+[2022-03-03 23:28:43,378] {processor.py:163} INFO - Started process (PID=19553) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:43,422] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:28:43,517] {logging_mixin.py:109} INFO - [2022-03-03 23:28:43,516] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:43,868] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:28:43,912] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.617 seconds
+[2022-03-03 23:29:14,475] {processor.py:163} INFO - Started process (PID=19643) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:14,528] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:29:14,572] {logging_mixin.py:109} INFO - [2022-03-03 23:29:14,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:14,942] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:15,032] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.689 seconds
+[2022-03-03 23:29:50,262] {processor.py:163} INFO - Started process (PID=19742) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:50,278] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:29:50,284] {logging_mixin.py:109} INFO - [2022-03-03 23:29:50,283] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:50,484] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:29:50,518] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.276 seconds
+[2022-03-03 23:30:23,278] {processor.py:163} INFO - Started process (PID=19832) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:23,305] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:30:23,326] {logging_mixin.py:109} INFO - [2022-03-03 23:30:23,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:23,594] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:23,641] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.429 seconds
+[2022-03-03 23:30:53,846] {processor.py:163} INFO - Started process (PID=19934) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:53,857] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:30:53,866] {logging_mixin.py:109} INFO - [2022-03-03 23:30:53,865] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:53,945] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:30:53,970] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.144 seconds
+[2022-03-03 23:31:24,308] {processor.py:163} INFO - Started process (PID=20018) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:24,317] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:31:24,325] {logging_mixin.py:109} INFO - [2022-03-03 23:31:24,324] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:24,405] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:24,431] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.139 seconds
+[2022-03-03 23:31:55,131] {processor.py:163} INFO - Started process (PID=20127) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:55,139] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:31:55,146] {logging_mixin.py:109} INFO - [2022-03-03 23:31:55,146] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:55,206] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:31:55,221] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.102 seconds
+[2022-03-03 23:32:25,358] {processor.py:163} INFO - Started process (PID=20213) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:25,376] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:32:25,393] {logging_mixin.py:109} INFO - [2022-03-03 23:32:25,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:25,497] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:25,515] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.173 seconds
+[2022-03-03 23:32:55,748] {processor.py:163} INFO - Started process (PID=20313) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:55,761] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:32:55,772] {logging_mixin.py:109} INFO - [2022-03-03 23:32:55,770] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:55,883] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:32:55,905] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.174 seconds
+[2022-03-03 23:33:27,291] {processor.py:163} INFO - Started process (PID=20397) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:27,298] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:33:27,307] {logging_mixin.py:109} INFO - [2022-03-03 23:33:27,307] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:27,404] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:27,425] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.147 seconds
+[2022-03-03 23:33:58,275] {processor.py:163} INFO - Started process (PID=20502) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:58,282] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:33:58,290] {logging_mixin.py:109} INFO - [2022-03-03 23:33:58,289] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:58,355] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:33:58,370] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.105 seconds
+[2022-03-03 23:34:28,676] {processor.py:163} INFO - Started process (PID=20604) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:28,689] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:34:28,708] {logging_mixin.py:109} INFO - [2022-03-03 23:34:28,704] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:28,857] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:28,880] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.223 seconds
+[2022-03-03 23:34:59,107] {processor.py:163} INFO - Started process (PID=20696) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:59,115] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:34:59,120] {logging_mixin.py:109} INFO - [2022-03-03 23:34:59,120] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:59,180] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:34:59,194] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.101 seconds
+[2022-03-03 23:35:29,308] {processor.py:163} INFO - Started process (PID=20793) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:29,320] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:35:29,327] {logging_mixin.py:109} INFO - [2022-03-03 23:35:29,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:29,410] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:29,432] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.136 seconds
+[2022-03-03 23:35:59,886] {processor.py:163} INFO - Started process (PID=20884) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:59,895] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:35:59,903] {logging_mixin.py:109} INFO - [2022-03-03 23:35:59,902] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:59,981] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:35:59,999] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.124 seconds
+[2022-03-03 23:36:30,163] {processor.py:163} INFO - Started process (PID=20976) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:36:30,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:36:30,185] {logging_mixin.py:109} INFO - [2022-03-03 23:36:30,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:36:30,306] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:36:30,337] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.198 seconds
+[2022-03-03 23:37:00,824] {processor.py:163} INFO - Started process (PID=21070) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:00,834] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:37:00,843] {logging_mixin.py:109} INFO - [2022-03-03 23:37:00,842] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:00,918] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:00,936] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.128 seconds
+[2022-03-03 23:37:31,005] {processor.py:163} INFO - Started process (PID=21174) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:31,014] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:37:31,024] {logging_mixin.py:109} INFO - [2022-03-03 23:37:31,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:31,094] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:37:31,118] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.124 seconds
+[2022-03-03 23:38:01,380] {processor.py:163} INFO - Started process (PID=21263) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:01,388] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:38:01,394] {logging_mixin.py:109} INFO - [2022-03-03 23:38:01,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:01,481] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:01,507] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.140 seconds
+[2022-03-03 23:38:32,311] {processor.py:163} INFO - Started process (PID=21363) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:32,321] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:38:32,353] {logging_mixin.py:109} INFO - [2022-03-03 23:38:32,352] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:32,615] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:38:32,659] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.379 seconds
+[2022-03-03 23:39:03,647] {processor.py:163} INFO - Started process (PID=21450) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:03,661] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:39:03,668] {logging_mixin.py:109} INFO - [2022-03-03 23:39:03,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:03,800] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:03,832] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.207 seconds
+[2022-03-03 23:39:34,145] {processor.py:163} INFO - Started process (PID=21560) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:34,154] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:39:34,159] {logging_mixin.py:109} INFO - [2022-03-03 23:39:34,158] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:34,221] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:39:34,236] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.101 seconds
+[2022-03-03 23:40:04,607] {processor.py:163} INFO - Started process (PID=21646) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:04,616] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:40:04,624] {logging_mixin.py:109} INFO - [2022-03-03 23:40:04,623] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:04,700] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:04,720] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.124 seconds
+[2022-03-03 23:40:35,147] {processor.py:163} INFO - Started process (PID=21750) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:35,156] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:40:35,161] {logging_mixin.py:109} INFO - [2022-03-03 23:40:35,160] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:35,227] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:40:35,245] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds
+[2022-03-03 23:41:05,759] {processor.py:163} INFO - Started process (PID=21838) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:05,782] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:41:05,794] {logging_mixin.py:109} INFO - [2022-03-03 23:41:05,791] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:05,897] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:05,923] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.179 seconds
+[2022-03-03 23:41:36,001] {processor.py:163} INFO - Started process (PID=21946) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:36,009] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:41:36,015] {logging_mixin.py:109} INFO - [2022-03-03 23:41:36,014] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:36,086] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:41:36,104] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.116 seconds
+[2022-03-03 23:42:06,260] {processor.py:163} INFO - Started process (PID=22032) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:06,271] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:42:06,293] {logging_mixin.py:109} INFO - [2022-03-03 23:42:06,292] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:06,383] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:06,406] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.162 seconds
+[2022-03-03 23:42:36,598] {processor.py:163} INFO - Started process (PID=22134) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:36,606] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:42:36,613] {logging_mixin.py:109} INFO - [2022-03-03 23:42:36,613] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:36,675] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:42:36,690] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.104 seconds
+[2022-03-03 23:43:08,015] {processor.py:163} INFO - Started process (PID=22221) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:08,024] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:43:08,031] {logging_mixin.py:109} INFO - [2022-03-03 23:43:08,030] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:08,101] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:08,121] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.117 seconds
+[2022-03-03 23:43:38,469] {processor.py:163} INFO - Started process (PID=22333) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:38,477] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:43:38,485] {logging_mixin.py:109} INFO - [2022-03-03 23:43:38,484] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:38,548] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:43:38,568] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.110 seconds
+[2022-03-03 23:44:08,950] {processor.py:163} INFO - Started process (PID=22431) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:08,959] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:44:08,970] {logging_mixin.py:109} INFO - [2022-03-03 23:44:08,969] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:09,072] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:09,098] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.162 seconds
+[2022-03-03 23:44:39,633] {processor.py:163} INFO - Started process (PID=22530) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:39,640] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:44:39,648] {logging_mixin.py:109} INFO - [2022-03-03 23:44:39,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:39,708] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:44:39,723] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.103 seconds
+[2022-03-03 23:45:10,418] {processor.py:163} INFO - Started process (PID=22630) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:10,427] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:45:10,434] {logging_mixin.py:109} INFO - [2022-03-03 23:45:10,433] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:10,501] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:10,519] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.112 seconds
+[2022-03-03 23:45:40,677] {processor.py:163} INFO - Started process (PID=22726) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:40,684] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:45:40,691] {logging_mixin.py:109} INFO - [2022-03-03 23:45:40,690] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:40,760] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:45:40,776] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds
+[2022-03-03 23:46:11,141] {processor.py:163} INFO - Started process (PID=22833) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:11,150] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:46:11,157] {logging_mixin.py:109} INFO - [2022-03-03 23:46:11,156] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:11,235] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:11,251] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.122 seconds
+[2022-03-03 23:46:41,976] {processor.py:163} INFO - Started process (PID=22921) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:41,988] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:46:41,995] {logging_mixin.py:109} INFO - [2022-03-03 23:46:41,994] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:42,072] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:46:42,093] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.128 seconds
+[2022-03-03 23:47:13,262] {processor.py:163} INFO - Started process (PID=23009) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:13,305] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:47:13,330] {logging_mixin.py:109} INFO - [2022-03-03 23:47:13,328] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:13,450] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:13,476] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.236 seconds
+[2022-03-03 23:47:43,703] {processor.py:163} INFO - Started process (PID=23101) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:43,715] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:47:43,726] {logging_mixin.py:109} INFO - [2022-03-03 23:47:43,725] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:43,843] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:47:43,924] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.259 seconds
+[2022-03-03 23:48:14,691] {processor.py:163} INFO - Started process (PID=23205) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:14,706] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:48:14,716] {logging_mixin.py:109} INFO - [2022-03-03 23:48:14,715] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:14,846] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:14,872] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.205 seconds
+[2022-03-03 23:48:45,133] {processor.py:163} INFO - Started process (PID=23293) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:45,147] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:48:45,160] {logging_mixin.py:109} INFO - [2022-03-03 23:48:45,157] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:45,248] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:48:45,267] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.150 seconds
+[2022-03-03 23:49:15,349] {processor.py:163} INFO - Started process (PID=23397) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:15,357] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:49:15,364] {logging_mixin.py:109} INFO - [2022-03-03 23:49:15,364] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:15,432] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:15,452] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.115 seconds
+[2022-03-03 23:49:45,795] {processor.py:163} INFO - Started process (PID=23485) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:45,803] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:49:45,810] {logging_mixin.py:109} INFO - [2022-03-03 23:49:45,809] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:45,898] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:49:45,932] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.151 seconds
+[2022-03-03 23:50:16,246] {processor.py:163} INFO - Started process (PID=23593) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:16,253] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:50:16,258] {logging_mixin.py:109} INFO - [2022-03-03 23:50:16,257] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:16,315] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:16,330] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.096 seconds
+[2022-03-03 23:50:46,729] {processor.py:163} INFO - Started process (PID=23679) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:46,739] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:50:46,748] {logging_mixin.py:109} INFO - [2022-03-03 23:50:46,747] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:46,814] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:50:46,832] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.119 seconds
+[2022-03-03 23:51:17,264] {processor.py:163} INFO - Started process (PID=23788) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:17,276] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:51:17,283] {logging_mixin.py:109} INFO - [2022-03-03 23:51:17,282] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:17,354] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:17,371] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.118 seconds
+[2022-03-03 23:51:47,597] {processor.py:163} INFO - Started process (PID=23878) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:47,607] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:51:47,613] {logging_mixin.py:109} INFO - [2022-03-03 23:51:47,612] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:47,683] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:51:47,700] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.112 seconds
+[2022-03-03 23:52:18,082] {processor.py:163} INFO - Started process (PID=23984) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:18,087] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:52:18,093] {logging_mixin.py:109} INFO - [2022-03-03 23:52:18,092] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:18,162] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:18,181] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.110 seconds
+[2022-03-03 23:52:49,087] {processor.py:163} INFO - Started process (PID=24085) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:49,103] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:52:49,115] {logging_mixin.py:109} INFO - [2022-03-03 23:52:49,114] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:49,210] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:52:49,230] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.155 seconds
+[2022-03-03 23:53:19,978] {processor.py:163} INFO - Started process (PID=24179) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:19,986] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:53:19,996] {logging_mixin.py:109} INFO - [2022-03-03 23:53:19,995] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:20,061] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:20,076] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.111 seconds
+[2022-03-03 23:53:50,148] {processor.py:163} INFO - Started process (PID=24280) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:50,156] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:53:50,162] {logging_mixin.py:109} INFO - [2022-03-03 23:53:50,161] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:50,227] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:53:50,243] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.106 seconds
+[2022-03-03 23:54:20,474] {processor.py:163} INFO - Started process (PID=24374) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:20,480] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:54:20,484] {logging_mixin.py:109} INFO - [2022-03-03 23:54:20,483] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:20,561] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:20,581] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.120 seconds
+[2022-03-03 23:54:51,002] {processor.py:163} INFO - Started process (PID=24473) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:51,012] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:54:51,018] {logging_mixin.py:109} INFO - [2022-03-03 23:54:51,017] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:51,094] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:54:51,110] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.119 seconds
+[2022-03-03 23:55:22,680] {processor.py:163} INFO - Started process (PID=24569) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:22,688] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:55:22,697] {logging_mixin.py:109} INFO - [2022-03-03 23:55:22,696] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:22,777] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:22,806] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.136 seconds
+[2022-03-03 23:55:53,344] {processor.py:163} INFO - Started process (PID=24674) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:53,351] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:55:53,359] {logging_mixin.py:109} INFO - [2022-03-03 23:55:53,358] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:53,435] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:55:53,456] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.125 seconds
+[2022-03-03 23:56:23,742] {processor.py:163} INFO - Started process (PID=24758) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:23,761] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:56:23,767] {logging_mixin.py:109} INFO - [2022-03-03 23:56:23,766] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:23,846] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:23,866] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.145 seconds
+[2022-03-03 23:56:54,244] {processor.py:163} INFO - Started process (PID=24863) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:54,251] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:56:54,259] {logging_mixin.py:109} INFO - [2022-03-03 23:56:54,258] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:54,322] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:56:54,338] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds
+[2022-03-03 23:57:24,694] {processor.py:163} INFO - Started process (PID=24950) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:24,721] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:57:24,737] {logging_mixin.py:109} INFO - [2022-03-03 23:57:24,734] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:24,830] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:24,853] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.171 seconds
+[2022-03-03 23:57:55,127] {processor.py:163} INFO - Started process (PID=25055) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:55,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:57:55,141] {logging_mixin.py:109} INFO - [2022-03-03 23:57:55,140] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:55,199] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:57:55,213] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.098 seconds
+[2022-03-03 23:58:25,423] {processor.py:163} INFO - Started process (PID=25141) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:25,434] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:58:25,443] {logging_mixin.py:109} INFO - [2022-03-03 23:58:25,443] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:25,527] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:25,550] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.141 seconds
+[2022-03-03 23:58:56,285] {processor.py:163} INFO - Started process (PID=25245) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:56,292] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:58:56,298] {logging_mixin.py:109} INFO - [2022-03-03 23:58:56,298] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:56,369] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:58:56,386] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.111 seconds
+[2022-03-03 23:59:27,142] {processor.py:163} INFO - Started process (PID=25335) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:27,155] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:59:27,162] {logging_mixin.py:109} INFO - [2022-03-03 23:59:27,161] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:27,235] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:27,253] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.125 seconds
+[2022-03-03 23:59:58,007] {processor.py:163} INFO - Started process (PID=25444) to work on /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:58,016] {processor.py:642} INFO - Processing file /opt/airflow/dags/reddit_posts_2022-02-24.xlsx for tasks to queue
+[2022-03-03 23:59:58,023] {logging_mixin.py:109} INFO - [2022-03-03 23:59:58,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:58,088] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/reddit_posts_2022-02-24.xlsx
+[2022-03-03 23:59:58,104] {processor.py:171} INFO - Processing /opt/airflow/dags/reddit_posts_2022-02-24.xlsx took 0.108 seconds

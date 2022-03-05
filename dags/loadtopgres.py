@@ -17,5 +17,5 @@ class LoadData:
         self.conn.close()
     def load_data(self,data):
         pass
-    
+    ##More updates soon
         
